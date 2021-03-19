@@ -1,0 +1,10 @@
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\AddIns\VersionControl\SubversionAddIn\ICSharpCode.Svn.addin
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\AddIns\VersionControl\SubversionAddIn\SubversionAddIn.dll
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\AddIns\VersionControl\SubversionAddIn\SubversionAddIn.pdb
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\VersionControl\SubversionAddIn\obj\Debug\SubversionAddIn.csprojAssemblyReference.cache
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\VersionControl\SubversionAddIn\obj\Debug\ICSharpCode.Svn.InfoPanel.resources
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\VersionControl\SubversionAddIn\obj\Debug\SubversionAddIn.csproj.GenerateResource.cache
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\VersionControl\SubversionAddIn\obj\Debug\SubversionAddIn.csproj.CoreCompileInputs.cache
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\VersionControl\SubversionAddIn\obj\Debug\SubversionAddIn.csproj.CopyComplete
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\VersionControl\SubversionAddIn\obj\Debug\SubversionAddIn.dll
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\VersionControl\SubversionAddIn\obj\Debug\SubversionAddIn.pdb

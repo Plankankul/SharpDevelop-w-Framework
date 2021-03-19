@@ -1,0 +1,13 @@
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\AddIns\DisplayBindings\Data\ICSharpCode.Data.addin
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\AddIns\DisplayBindings\Data\Templates\Files\CSharp.EDMX.xft
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\AddIns\DisplayBindings\Data\ICSharpCode.Data.Addin.dll
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\AddIns\DisplayBindings\Data\ICSharpCode.Data.Addin.pdb
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\DisplayBindings\Data\ICSharpCode.Data.Addin\obj\Debug\ICSharpCode.Data.Addin.csprojAssemblyReference.cache
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\DisplayBindings\Data\ICSharpCode.Data.Addin\obj\Debug\Pad\DatabasesTreeViewUserControl.baml
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\DisplayBindings\Data\ICSharpCode.Data.Addin\obj\Debug\Pad\DatabasesTreeViewUserControl.g.cs
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\DisplayBindings\Data\ICSharpCode.Data.Addin\obj\Debug\ICSharpCode.Data.Addin_MarkupCompile.cache
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\DisplayBindings\Data\ICSharpCode.Data.Addin\obj\Debug\ICSharpCode.Data.Addin.g.resources
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\DisplayBindings\Data\ICSharpCode.Data.Addin\obj\Debug\ICSharpCode.Data.Addin.csproj.CoreCompileInputs.cache
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\DisplayBindings\Data\ICSharpCode.Data.Addin\obj\Debug\ICSharpCode.Data.Addin.csproj.CopyComplete
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\DisplayBindings\Data\ICSharpCode.Data.Addin\obj\Debug\ICSharpCode.Data.Addin.dll
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\DisplayBindings\Data\ICSharpCode.Data.Addin\obj\Debug\ICSharpCode.Data.Addin.pdb

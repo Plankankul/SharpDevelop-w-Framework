@@ -1,0 +1,12 @@
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\AddIns\Misc\StartPage\StartPage.addin
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\AddIns\Misc\StartPage\StartPage.dll
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\AddIns\Misc\StartPage\StartPage.pdb
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\Misc\StartPage\Project\obj\Debug\Src\RecentProjectsControl.baml
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\Misc\StartPage\Project\obj\Debug\Src\StartPageControl.baml
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\Misc\StartPage\Project\obj\Debug\Src\RecentProjectsControl.g.cs
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\Misc\StartPage\Project\obj\Debug\Src\StartPageControl.g.cs
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\Misc\StartPage\Project\obj\Debug\StartPage_MarkupCompile.cache
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\Misc\StartPage\Project\obj\Debug\StartPage.g.resources
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\Misc\StartPage\Project\obj\Debug\StartPage.csproj.CoreCompileInputs.cache
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\Misc\StartPage\Project\obj\Debug\StartPage.dll
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\Misc\StartPage\Project\obj\Debug\StartPage.pdb

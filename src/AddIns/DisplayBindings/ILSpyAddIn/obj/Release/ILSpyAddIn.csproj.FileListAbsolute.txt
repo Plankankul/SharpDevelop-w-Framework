@@ -1,0 +1,14 @@
+B:\_NTROOTWRK\Verve Kits\verve patch\Framework\SharpDevelop_4.4.0.9722_Source\AddIns\DisplayBindings\Decompiler\ILSpyAddIn.addin
+B:\_NTROOTWRK\Verve Kits\verve patch\Framework\SharpDevelop_4.4.0.9722_Source\AddIns\DisplayBindings\Decompiler\ILSpyAddIn.dll
+B:\_NTROOTWRK\Verve Kits\verve patch\Framework\SharpDevelop_4.4.0.9722_Source\src\AddIns\DisplayBindings\ILSpyAddIn\obj\Release\ILSpyAddIn.csprojResolveAssemblyReference.cache
+B:\_NTROOTWRK\Verve Kits\verve patch\Framework\SharpDevelop_4.4.0.9722_Source\src\AddIns\DisplayBindings\ILSpyAddIn\obj\Release\ICSharpCode.ILSpyAddIn.SetILSpyPathDialog.resources
+B:\_NTROOTWRK\Verve Kits\verve patch\Framework\SharpDevelop_4.4.0.9722_Source\src\AddIns\DisplayBindings\ILSpyAddIn\obj\Release\ILSpyAddIn.csproj.GenerateResource.Cache
+B:\_NTROOTWRK\Verve Kits\verve patch\Framework\SharpDevelop_4.4.0.9722_Source\src\AddIns\DisplayBindings\ILSpyAddIn\obj\Release\ILSpyAddIn.dll
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\AddIns\DisplayBindings\Decompiler\ILSpyAddIn.addin
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\AddIns\DisplayBindings\Decompiler\ILSpyAddIn.dll
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\DisplayBindings\ILSpyAddIn\obj\Release\ILSpyAddIn.csprojAssemblyReference.cache
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\DisplayBindings\ILSpyAddIn\obj\Release\ICSharpCode.ILSpyAddIn.SetILSpyPathDialog.resources
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\DisplayBindings\ILSpyAddIn\obj\Release\ILSpyAddIn.csproj.GenerateResource.cache
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\DisplayBindings\ILSpyAddIn\obj\Release\ILSpyAddIn.csproj.CoreCompileInputs.cache
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\DisplayBindings\ILSpyAddIn\obj\Release\ILSpyAddIn.csproj.CopyComplete
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\DisplayBindings\ILSpyAddIn\obj\Release\ILSpyAddIn.dll

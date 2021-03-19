@@ -1,0 +1,8 @@
+B:\_NTROOTWRK\Verve Kits\verve patch\Framework\SharpDevelop_4.4.0.9722_Source\AddIns\Misc\RegExpTk\RegExpTk.addin
+B:\_NTROOTWRK\Verve Kits\verve patch\Framework\SharpDevelop_4.4.0.9722_Source\AddIns\Misc\RegExpTk\RegExpTk.dll
+B:\_NTROOTWRK\Verve Kits\verve patch\Framework\SharpDevelop_4.4.0.9722_Source\src\AddIns\Misc\RegExpTk\Project\obj\Release\RegExpTk.csprojResolveAssemblyReference.cache
+B:\_NTROOTWRK\Verve Kits\verve patch\Framework\SharpDevelop_4.4.0.9722_Source\src\AddIns\Misc\RegExpTk\Project\obj\Release\RegExpTk.dll
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\AddIns\Misc\RegExpTk\RegExpTk.addin
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\AddIns\Misc\RegExpTk\RegExpTk.dll
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\Misc\RegExpTk\Project\obj\Release\RegExpTk.csproj.CoreCompileInputs.cache
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\Misc\RegExpTk\Project\obj\Release\RegExpTk.dll

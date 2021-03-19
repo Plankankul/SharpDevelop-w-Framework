@@ -1,0 +1,11 @@
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\bin\ICSharpCode.TreeView.dll
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\bin\ICSharpCode.TreeView.pdb
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\Libraries\SharpTreeView\ICSharpCode.TreeView\obj\Debug\ICSharpCode.TreeView.csprojAssemblyReference.cache
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\Libraries\SharpTreeView\ICSharpCode.TreeView\obj\Debug\GeneratedInternalTypeHelper.g.cs
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\Libraries\SharpTreeView\ICSharpCode.TreeView\obj\Debug\ICSharpCode.TreeView_MarkupCompile.cache
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\Libraries\SharpTreeView\ICSharpCode.TreeView\obj\Debug\ICSharpCode.TreeView_MarkupCompile.lref
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\Libraries\SharpTreeView\ICSharpCode.TreeView\obj\Debug\Themes\Generic.baml
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\Libraries\SharpTreeView\ICSharpCode.TreeView\obj\Debug\ICSharpCode.TreeView.g.resources
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\Libraries\SharpTreeView\ICSharpCode.TreeView\obj\Debug\ICSharpCode.TreeView.csproj.CoreCompileInputs.cache
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\Libraries\SharpTreeView\ICSharpCode.TreeView\obj\Debug\ICSharpCode.TreeView.dll
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\Libraries\SharpTreeView\ICSharpCode.TreeView\obj\Debug\ICSharpCode.TreeView.pdb

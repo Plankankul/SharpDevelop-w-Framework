@@ -1,0 +1,11 @@
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\DisplayBindings\ClassDiagram\ClassCanvas\bin\Debug\ClassCanvas.dll
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\DisplayBindings\ClassDiagram\ClassCanvas\bin\Debug\ClassCanvas.pdb
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\DisplayBindings\ClassDiagram\ClassCanvas\bin\Debug\Diagrams.dll
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\DisplayBindings\ClassDiagram\ClassCanvas\bin\Debug\Diagrams.pdb
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\DisplayBindings\ClassDiagram\ClassCanvas\obj\Debug\ClassCanvas.csprojAssemblyReference.cache
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\DisplayBindings\ClassDiagram\ClassCanvas\obj\Debug\ClassDiagram.ClassCanvas.resources
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\DisplayBindings\ClassDiagram\ClassCanvas\obj\Debug\ClassCanvas.csproj.GenerateResource.cache
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\DisplayBindings\ClassDiagram\ClassCanvas\obj\Debug\ClassCanvas.csproj.CoreCompileInputs.cache
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\DisplayBindings\ClassDiagram\ClassCanvas\obj\Debug\ClassCanvas.csproj.CopyComplete
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\DisplayBindings\ClassDiagram\ClassCanvas\obj\Debug\ClassCanvas.dll
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\DisplayBindings\ClassDiagram\ClassCanvas\obj\Debug\ClassCanvas.pdb

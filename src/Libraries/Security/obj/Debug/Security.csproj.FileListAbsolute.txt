@@ -1,0 +1,39 @@
+B:\JonathanMoore\Framework\trunk\Framework\Framework\Security\bin\Debug\Security.dll
+B:\JonathanMoore\Framework\trunk\Framework\Framework\Security\bin\Debug\Security.pdb
+B:\JonathanMoore\Framework\trunk\Framework\Framework\Security\obj\Debug\Security.csprojAssemblyReference.cache
+B:\JonathanMoore\Framework\trunk\Framework\Framework\Security\obj\Debug\Security.csproj.CoreCompileInputs.cache
+B:\JonathanMoore\Framework\trunk\Framework\Framework\Security\obj\Debug\Security.dll
+B:\JonathanMoore\Framework\trunk\Framework\Framework\Security\obj\Debug\Security.pdb
+B:\JonathanMoore\Framework\trunk\Framework\Distro\Security.dll
+B:\JonathanMoore\Framework\trunk\Framework\Distro\Security.pdb
+B:\_NTROOTWRK\Verve Kits\verve patch\Framework\Distro\Security.dll
+B:\_NTROOTWRK\Verve Kits\verve patch\Framework\Distro\Security.pdb
+B:\_NTROOTWRK\Verve Kits\verve patch\Framework\Framework\Security\obj\Debug\Security.csproj.CoreCompileInputs.cache
+B:\_NTROOTWRK\Verve Kits\verve patch\Framework\Framework\Security\obj\Debug\Security.dll
+B:\_NTROOTWRK\Verve Kits\verve patch\Framework\Framework\Security\obj\Debug\Security.pdb
+B:\_NTROOTWRK\Verve Kits\verve patch\Framework\Distro\Security.xml
+B:\_NTROOTWRK\Verve Kits\verve patch\Framework\Distro\XML\Security.xml
+B:\_NTROOTWRK\Verve Kits\verve patch\Framework\Distro\Security.dll.CodeAnalysisLog.xml
+B:\_NTROOTWRK\Verve Kits\verve patch\Framework\Distro\Security.dll.lastcodeanalysissucceeded
+B:\_NTROOTWRK\Verve Kits\verve patch\Framework\Framework\Security\obj\Debug\Security.csprojAssemblyReference.cache
+B:\_NTROOTWRK\Verve Kits\verve patch\Framework\bin\Security.dll
+B:\_NTROOTWRK\Verve Kits\verve patch\Framework\bin\Security.pdb
+B:\_NTROOTWRK\Verve Kits\verve patch\Framework\bin\Security.xml
+B:\_NTROOTWRK\Verve Kits\verve patch\Framework\bin\Security.dll.CodeAnalysisLog.xml
+B:\_NTROOTWRK\Verve Kits\verve patch\Framework\bin\Security.dll.lastcodeanalysissucceeded
+B:\_NTROOTWRK\Verve Kits\verve patch\Framework\SharpDevelop_4.4.0.9722_Source\src\Libraries\Security\obj\Debug\Security.dll
+B:\_NTROOTWRK\Verve Kits\verve patch\Framework\SharpDevelop_4.4.0.9722_Source\src\Libraries\Security\obj\Debug\Security.pdb
+B:\_NTROOTWRK\Verve Kits\verve patch\Framework\SharpDevelop_4.4.0.9722_Source\bin\Security.dll
+B:\_NTROOTWRK\Verve Kits\verve patch\Framework\SharpDevelop_4.4.0.9722_Source\bin\Security.pdb
+B:\_NTROOTWRK\Verve Kits\verve patch\Framework\SharpDevelop_4.4.0.9722_Source\bin\Security.xml
+B:\_NTROOTWRK\Verve Kits\verve patch\Framework\SharpDevelop_4.4.0.9722_Source\bin\Security.dll.CodeAnalysisLog.xml
+B:\_NTROOTWRK\Verve Kits\verve patch\Framework\SharpDevelop_4.4.0.9722_Source\bin\Security.dll.lastcodeanalysissucceeded
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\bin\Security.dll
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\bin\Security.pdb
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\bin\Security.xml
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\bin\Security.dll.CodeAnalysisLog.xml
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\bin\Security.dll.lastcodeanalysissucceeded
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\Libraries\Security\obj\Debug\Security.csprojAssemblyReference.cache
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\Libraries\Security\obj\Debug\Security.csproj.CoreCompileInputs.cache
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\Libraries\Security\obj\Debug\Security.dll
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\Libraries\Security\obj\Debug\Security.pdb

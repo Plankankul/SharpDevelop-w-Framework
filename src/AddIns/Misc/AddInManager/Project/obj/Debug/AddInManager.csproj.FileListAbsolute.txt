@@ -1,0 +1,11 @@
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\AddIns\Misc\AddInManager\AddInManager.addin
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\AddIns\Misc\AddInManager\ICSharpCode.AddInManager.dll
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\AddIns\Misc\AddInManager\ICSharpCode.AddInManager.pdb
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\Misc\AddInManager\Project\obj\Debug\AddInManager.csprojAssemblyReference.cache
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\Misc\AddInManager\Project\obj\Debug\ICSharpCode.AddInManager.ManagerForm.resources
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\Misc\AddInManager\Project\obj\Debug\ICSharpCode.AddInManager.AboutForm.resources
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\Misc\AddInManager\Project\obj\Debug\AddInManager.csproj.GenerateResource.cache
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\Misc\AddInManager\Project\obj\Debug\AddInManager.csproj.CoreCompileInputs.cache
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\Misc\AddInManager\Project\obj\Debug\AddInManager.csproj.CopyComplete
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\Misc\AddInManager\Project\obj\Debug\ICSharpCode.AddInManager.dll
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\Misc\AddInManager\Project\obj\Debug\ICSharpCode.AddInManager.pdb

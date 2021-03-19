@@ -1,0 +1,11 @@
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\bin\ICSharpCode.SharpDevelop.Sda.dll.config
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\bin\SharpDevelop.exe.config
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\bin\SharpDevelop.exe
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\bin\SharpDevelop.pdb
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\Main\StartUp\Project\obj\Debug\StartUp.csprojAssemblyReference.cache
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\Main\StartUp\Project\obj\Debug\Resources.StringResources.resources
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\Main\StartUp\Project\obj\Debug\StartUp.csproj.GenerateResource.cache
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\Main\StartUp\Project\obj\Debug\StartUp.csproj.CoreCompileInputs.cache
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\Main\StartUp\Project\obj\Debug\StartUp.csproj.CopyComplete
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\Main\StartUp\Project\obj\Debug\SharpDevelop.exe
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\Main\StartUp\Project\obj\Debug\SharpDevelop.pdb

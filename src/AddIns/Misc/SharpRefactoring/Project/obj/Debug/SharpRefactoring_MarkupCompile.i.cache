@@ -1,0 +1,20 @@
+﻿SharpRefactoring
+
+
+library
+C#
+.cs
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\Misc\SharpRefactoring\Project\obj\Debug\
+SharpRefactoring
+none
+false
+DEBUG;TRACE
+
+5647129528
+
+54-1512777424
+18-93264194
+Src\Gui\CreatePropertiesDialog.xaml;Src\Gui\InsertCtorDialog.xaml;Src\Gui\IntroduceMethodDialog.xaml;Src\Gui\OverrideEqualsGetHashCodeMethodsDialog.xaml;Src\Gui\OverrideToStringMethodDialog.xaml;
+
+True
+

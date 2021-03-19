@@ -1,0 +1,16 @@
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\AddIns\Analysis\MachineSpecifications\Tools\Machine.Specifications\CommandLine.dll
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\AddIns\Analysis\MachineSpecifications\Tools\Machine.Specifications\License.txt
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\AddIns\Analysis\MachineSpecifications\Tools\Machine.Specifications\Machine.Specifications.dll
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\AddIns\Analysis\MachineSpecifications\Tools\Machine.Specifications\Machine.Specifications.Reporting.dll
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\AddIns\Analysis\MachineSpecifications\Tools\Machine.Specifications\mspec-clr4.exe
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\AddIns\Analysis\MachineSpecifications\Tools\Machine.Specifications\mspec-x86-clr4.exe
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\AddIns\Analysis\MachineSpecifications\Tools\Machine.Specifications\mspec-x86.exe
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\AddIns\Analysis\MachineSpecifications\Tools\Machine.Specifications\mspec.exe
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\AddIns\Analysis\MachineSpecifications\Tools\Machine.Specifications\Spark.dll
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\AddIns\Analysis\MachineSpecifications\MachineSpecifications.addin
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\AddIns\Analysis\MachineSpecifications\MachineSpecifications.dll
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\AddIns\Analysis\MachineSpecifications\MachineSpecifications.pdb
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\Analysis\MachineSpecifications\MachineSpecifications\obj\Debug\MachineSpecifications.csprojAssemblyReference.cache
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\Analysis\MachineSpecifications\MachineSpecifications\obj\Debug\MachineSpecifications.csproj.CoreCompileInputs.cache
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\Analysis\MachineSpecifications\MachineSpecifications\obj\Debug\MachineSpecifications.dll
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\Analysis\MachineSpecifications\MachineSpecifications\obj\Debug\MachineSpecifications.pdb

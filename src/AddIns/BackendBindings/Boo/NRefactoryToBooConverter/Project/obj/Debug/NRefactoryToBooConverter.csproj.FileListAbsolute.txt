@@ -1,0 +1,9 @@
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\BackendBindings\Boo\NRefactoryToBooConverter\Project\bin\Debug\NRefactoryToBooConverter.dll
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\BackendBindings\Boo\NRefactoryToBooConverter\Project\bin\Debug\NRefactoryToBooConverter.pdb
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\BackendBindings\Boo\NRefactoryToBooConverter\Project\bin\Debug\Boo.Lang.Compiler.dll
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\BackendBindings\Boo\NRefactoryToBooConverter\Project\bin\Debug\Boo.Lang.dll
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\BackendBindings\Boo\NRefactoryToBooConverter\Project\obj\Debug\NRefactoryToBooConverter.csprojAssemblyReference.cache
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\BackendBindings\Boo\NRefactoryToBooConverter\Project\obj\Debug\NRefactoryToBooConverter.csproj.CoreCompileInputs.cache
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\BackendBindings\Boo\NRefactoryToBooConverter\Project\obj\Debug\NRefactoryToBooConverter.csproj.CopyComplete
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\BackendBindings\Boo\NRefactoryToBooConverter\Project\obj\Debug\NRefactoryToBooConverter.dll
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\BackendBindings\Boo\NRefactoryToBooConverter\Project\obj\Debug\NRefactoryToBooConverter.pdb

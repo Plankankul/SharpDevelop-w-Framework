@@ -1,0 +1,17 @@
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\AddIns\DisplayBindings\WpfDesign\WpfDesign.addin
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\AddIns\DisplayBindings\WpfDesign\ICSharpCode.WpfDesign.AddIn.dll
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\AddIns\DisplayBindings\WpfDesign\ICSharpCode.WpfDesign.AddIn.pdb
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\DisplayBindings\WpfDesign\WpfDesign.AddIn\obj\Debug\WpfDesign.AddIn.csprojAssemblyReference.cache
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\DisplayBindings\WpfDesign\WpfDesign.AddIn\obj\Debug\Src\WpfDocumentError.baml
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\DisplayBindings\WpfDesign\WpfDesign.AddIn\obj\Debug\Src\ImageSourceEditor\ChooseImageDialog.baml
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\DisplayBindings\WpfDesign\WpfDesign.AddIn\obj\Debug\Src\ImageSourceEditor\ImageSourceEditor.baml
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\DisplayBindings\WpfDesign\WpfDesign.AddIn\obj\Debug\Src\ObjectEditor.baml
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\DisplayBindings\WpfDesign\WpfDesign.AddIn\obj\Debug\Src\WpfDocumentError.g.cs
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\DisplayBindings\WpfDesign\WpfDesign.AddIn\obj\Debug\Src\ImageSourceEditor\ChooseImageDialog.g.cs
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\DisplayBindings\WpfDesign\WpfDesign.AddIn\obj\Debug\Src\ImageSourceEditor\ImageSourceEditor.g.cs
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\DisplayBindings\WpfDesign\WpfDesign.AddIn\obj\Debug\Src\ObjectEditor.g.cs
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\DisplayBindings\WpfDesign\WpfDesign.AddIn\obj\Debug\ICSharpCode.WpfDesign.AddIn_MarkupCompile.cache
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\DisplayBindings\WpfDesign\WpfDesign.AddIn\obj\Debug\ICSharpCode.WpfDesign.AddIn.g.resources
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\DisplayBindings\WpfDesign\WpfDesign.AddIn\obj\Debug\WpfDesign.AddIn.csproj.CoreCompileInputs.cache
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\DisplayBindings\WpfDesign\WpfDesign.AddIn\obj\Debug\ICSharpCode.WpfDesign.AddIn.dll
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\DisplayBindings\WpfDesign\WpfDesign.AddIn\obj\Debug\ICSharpCode.WpfDesign.AddIn.pdb

@@ -1,0 +1,16 @@
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\AddIns\Misc\UsageDataCollector\UsageDataCollector.addin
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\AddIns\Misc\UsageDataCollector\UsageDataCollector.AddIn.dll
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\AddIns\Misc\UsageDataCollector\UsageDataCollector.AddIn.pdb
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\Misc\UsageDataCollector\UsageDataCollector.AddIn\obj\Debug\UsageDataCollector.AddIn.csprojAssemblyReference.cache
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\Misc\UsageDataCollector\UsageDataCollector.AddIn\obj\Debug\CollectedDataView.baml
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\Misc\UsageDataCollector\UsageDataCollector.AddIn\obj\Debug\CollectedDataView.g.cs
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\Misc\UsageDataCollector\UsageDataCollector.AddIn\obj\Debug\OptionPage.g.cs
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\Misc\UsageDataCollector\UsageDataCollector.AddIn\obj\Debug\StartPageMessage.g.cs
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\Misc\UsageDataCollector\UsageDataCollector.AddIn\obj\Debug\UsageDataCollector.AddIn_MarkupCompile.cache
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\Misc\UsageDataCollector\UsageDataCollector.AddIn\obj\Debug\UsageDataCollector.AddIn_MarkupCompile.lref
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\Misc\UsageDataCollector\UsageDataCollector.AddIn\obj\Debug\OptionPage.baml
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\Misc\UsageDataCollector\UsageDataCollector.AddIn\obj\Debug\StartPageMessage.baml
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\Misc\UsageDataCollector\UsageDataCollector.AddIn\obj\Debug\UsageDataCollector.AddIn.g.resources
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\Misc\UsageDataCollector\UsageDataCollector.AddIn\obj\Debug\UsageDataCollector.AddIn.csproj.CoreCompileInputs.cache
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\Misc\UsageDataCollector\UsageDataCollector.AddIn\obj\Debug\UsageDataCollector.AddIn.dll
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\Misc\UsageDataCollector\UsageDataCollector.AddIn\obj\Debug\UsageDataCollector.AddIn.pdb

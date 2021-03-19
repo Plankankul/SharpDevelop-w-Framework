@@ -1,0 +1,11 @@
+B:\_NTROOTWRK\Verve Kits\verve patch\Framework\SharpDevelop_4.4.0.9722_Source\src\Tools\UpdateAssemblyInfo\bin\Debug\UpdateAssemblyInfo.exe
+B:\_NTROOTWRK\Verve Kits\verve patch\Framework\SharpDevelop_4.4.0.9722_Source\src\Tools\UpdateAssemblyInfo\bin\Debug\UpdateAssemblyInfo.pdb
+B:\_NTROOTWRK\Verve Kits\verve patch\Framework\SharpDevelop_4.4.0.9722_Source\src\Tools\UpdateAssemblyInfo\obj\Debug\UpdateAssemblyInfo.csprojResolveAssemblyReference.cache
+B:\_NTROOTWRK\Verve Kits\verve patch\Framework\SharpDevelop_4.4.0.9722_Source\src\Tools\UpdateAssemblyInfo\obj\Debug\UpdateAssemblyInfo.exe
+B:\_NTROOTWRK\Verve Kits\verve patch\Framework\SharpDevelop_4.4.0.9722_Source\src\Tools\UpdateAssemblyInfo\obj\Debug\UpdateAssemblyInfo.pdb
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\Tools\UpdateAssemblyInfo\bin\Debug\UpdateAssemblyInfo.exe
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\Tools\UpdateAssemblyInfo\bin\Debug\UpdateAssemblyInfo.pdb
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\Tools\UpdateAssemblyInfo\obj\Debug\UpdateAssemblyInfo.exe
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\Tools\UpdateAssemblyInfo\obj\Debug\UpdateAssemblyInfo.pdb
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\Tools\UpdateAssemblyInfo\obj\Debug\UpdateAssemblyInfo.csprojAssemblyReference.cache
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\Tools\UpdateAssemblyInfo\obj\Debug\UpdateAssemblyInfo.csproj.CoreCompileInputs.cache

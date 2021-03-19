@@ -1,0 +1,7 @@
+B:\_NTROOTWRK\Verve Kits\verve patch\Framework\SharpDevelop_4.4.0.9722_Source\AddIns\Misc\ResourceToolkit\Hornung.ResourceToolkit.addin
+B:\_NTROOTWRK\Verve Kits\verve patch\Framework\SharpDevelop_4.4.0.9722_Source\AddIns\Misc\ResourceToolkit\Hornung.ResourceToolkit.dll
+B:\_NTROOTWRK\Verve Kits\verve patch\Framework\SharpDevelop_4.4.0.9722_Source\src\AddIns\Misc\ResourceToolkit\Project\obj\Release\Hornung.ResourceToolkit.dll
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\AddIns\Misc\ResourceToolkit\Hornung.ResourceToolkit.addin
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\AddIns\Misc\ResourceToolkit\Hornung.ResourceToolkit.dll
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\Misc\ResourceToolkit\Project\obj\Release\ResourceToolkit.csproj.CoreCompileInputs.cache
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\Misc\ResourceToolkit\Project\obj\Release\Hornung.ResourceToolkit.dll

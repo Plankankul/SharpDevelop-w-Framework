@@ -1,0 +1,6 @@
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\AddIns\DisplayBindings\ResourceEditor\ResourceEditor.addin
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\AddIns\DisplayBindings\ResourceEditor\ResourceEditor.dll
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\AddIns\DisplayBindings\ResourceEditor\ResourceEditor.pdb
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\DisplayBindings\ResourceEditor\Project\obj\Debug\ResourceEditor.csproj.CoreCompileInputs.cache
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\DisplayBindings\ResourceEditor\Project\obj\Debug\ResourceEditor.dll
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\DisplayBindings\ResourceEditor\Project\obj\Debug\ResourceEditor.pdb

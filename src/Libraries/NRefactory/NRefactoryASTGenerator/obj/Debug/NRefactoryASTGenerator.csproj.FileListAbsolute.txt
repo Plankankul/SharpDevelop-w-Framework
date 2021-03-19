@@ -1,0 +1,6 @@
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\Libraries\NRefactory\NRefactoryASTGenerator\bin\Debug\NRefactoryASTGenerator.exe
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\Libraries\NRefactory\NRefactoryASTGenerator\bin\Debug\NRefactoryASTGenerator.pdb
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\Libraries\NRefactory\NRefactoryASTGenerator\obj\Debug\NRefactoryASTGenerator.csprojAssemblyReference.cache
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\Libraries\NRefactory\NRefactoryASTGenerator\obj\Debug\NRefactoryASTGenerator.csproj.CoreCompileInputs.cache
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\Libraries\NRefactory\NRefactoryASTGenerator\obj\Debug\NRefactoryASTGenerator.exe
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\Libraries\NRefactory\NRefactoryASTGenerator\obj\Debug\NRefactoryASTGenerator.pdb

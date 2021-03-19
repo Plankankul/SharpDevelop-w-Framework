@@ -1,0 +1,12 @@
+B:\_NTROOTWRK\Verve Kits\verve patch\Framework\SharpDevelop_4.4.0.9722_Source\AddIns\DisplayBindings\ClassDiagram\Resources\Bitmaps.resources
+B:\_NTROOTWRK\Verve Kits\verve patch\Framework\SharpDevelop_4.4.0.9722_Source\AddIns\DisplayBindings\ClassDiagram\ClassDiagramAddin.addin
+B:\_NTROOTWRK\Verve Kits\verve patch\Framework\SharpDevelop_4.4.0.9722_Source\AddIns\DisplayBindings\ClassDiagram\ClassDiagramAddin.dll
+B:\_NTROOTWRK\Verve Kits\verve patch\Framework\SharpDevelop_4.4.0.9722_Source\src\AddIns\DisplayBindings\ClassDiagram\ClassDiagramAddin\obj\Release\ClassDiagramAddin.csprojResolveAssemblyReference.cache
+B:\_NTROOTWRK\Verve Kits\verve patch\Framework\SharpDevelop_4.4.0.9722_Source\src\AddIns\DisplayBindings\ClassDiagram\ClassDiagramAddin\obj\Release\ClassDiagramAddin.dll
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\AddIns\DisplayBindings\ClassDiagram\Resources\Bitmaps.resources
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\AddIns\DisplayBindings\ClassDiagram\ClassDiagramAddin.addin
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\AddIns\DisplayBindings\ClassDiagram\ClassDiagramAddin.dll
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\DisplayBindings\ClassDiagram\ClassDiagramAddin\obj\Release\ClassDiagramAddin.csprojAssemblyReference.cache
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\DisplayBindings\ClassDiagram\ClassDiagramAddin\obj\Release\ClassDiagramAddin.csproj.CoreCompileInputs.cache
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\DisplayBindings\ClassDiagram\ClassDiagramAddin\obj\Release\ClassDiagramAddin.csproj.CopyComplete
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\DisplayBindings\ClassDiagram\ClassDiagramAddin\obj\Release\ClassDiagramAddin.dll

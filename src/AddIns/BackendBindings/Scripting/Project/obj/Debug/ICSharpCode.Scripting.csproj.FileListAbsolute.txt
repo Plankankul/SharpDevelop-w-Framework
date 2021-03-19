@@ -1,0 +1,6 @@
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\bin\ICSharpCode.Scripting.dll
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\bin\ICSharpCode.Scripting.pdb
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\BackendBindings\Scripting\Project\obj\Debug\ICSharpCode.Scripting.csprojAssemblyReference.cache
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\BackendBindings\Scripting\Project\obj\Debug\ICSharpCode.Scripting.csproj.CoreCompileInputs.cache
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\BackendBindings\Scripting\Project\obj\Debug\ICSharpCode.Scripting.dll
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\BackendBindings\Scripting\Project\obj\Debug\ICSharpCode.Scripting.pdb

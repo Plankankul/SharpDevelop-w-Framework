@@ -1,0 +1,7 @@
+B:\_NTROOTWRK\Verve Kits\verve patch\Framework\SharpDevelop_4.4.0.9722_Source\AddIns\Misc\PackageManagement\PackageManagement.PowerShell.dll
+B:\_NTROOTWRK\Verve Kits\verve patch\Framework\SharpDevelop_4.4.0.9722_Source\src\AddIns\Misc\PackageManagement\PowerShell\Project\obj\x86\Release\PackageManagement.PowerShell.csprojResolveAssemblyReference.cache
+B:\_NTROOTWRK\Verve Kits\verve patch\Framework\SharpDevelop_4.4.0.9722_Source\src\AddIns\Misc\PackageManagement\PowerShell\Project\obj\x86\Release\PackageManagement.PowerShell.dll
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\AddIns\Misc\PackageManagement\PackageManagement.PowerShell.dll
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\Misc\PackageManagement\PowerShell\Project\obj\x86\Release\PackageManagement.PowerShell.csprojAssemblyReference.cache
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\Misc\PackageManagement\PowerShell\Project\obj\x86\Release\PackageManagement.PowerShell.csproj.CoreCompileInputs.cache
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\Misc\PackageManagement\PowerShell\Project\obj\x86\Release\PackageManagement.PowerShell.dll

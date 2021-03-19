@@ -1,0 +1,17 @@
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\Analysis\Profiler\bin\ICSharpCode.Profiler.Controls.dll
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\Analysis\Profiler\bin\ICSharpCode.Profiler.Controls.pdb
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\Analysis\Profiler\Frontend\Controls\obj\Debug\Profiler.Controls.csprojAssemblyReference.cache
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\Analysis\Profiler\Frontend\Controls\obj\Debug\CompareView.baml
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\Analysis\Profiler\Frontend\Controls\obj\Debug\CompareView.g.cs
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\Analysis\Profiler\Frontend\Controls\obj\Debug\ExtendedTimeLineControl.g.cs
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\Analysis\Profiler\Frontend\Controls\obj\Debug\QueryView.g.cs
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\Analysis\Profiler\Frontend\Controls\obj\Debug\GeneratedInternalTypeHelper.g.cs
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\Analysis\Profiler\Frontend\Controls\obj\Debug\ICSharpCode.Profiler.Controls_MarkupCompile.cache
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\Analysis\Profiler\Frontend\Controls\obj\Debug\ICSharpCode.Profiler.Controls_MarkupCompile.lref
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\Analysis\Profiler\Frontend\Controls\obj\Debug\ExtendedTimeLineControl.baml
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\Analysis\Profiler\Frontend\Controls\obj\Debug\QueryView.baml
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\Analysis\Profiler\Frontend\Controls\obj\Debug\Themes\Generic.baml
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\Analysis\Profiler\Frontend\Controls\obj\Debug\ICSharpCode.Profiler.Controls.g.resources
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\Analysis\Profiler\Frontend\Controls\obj\Debug\Profiler.Controls.csproj.CoreCompileInputs.cache
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\Analysis\Profiler\Frontend\Controls\obj\Debug\ICSharpCode.Profiler.Controls.dll
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\Analysis\Profiler\Frontend\Controls\obj\Debug\ICSharpCode.Profiler.Controls.pdb

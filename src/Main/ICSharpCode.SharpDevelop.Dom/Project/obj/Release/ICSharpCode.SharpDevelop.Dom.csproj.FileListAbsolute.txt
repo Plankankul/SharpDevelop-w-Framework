@@ -1,0 +1,8 @@
+B:\_NTROOTWRK\Verve Kits\verve patch\Framework\SharpDevelop_4.4.0.9722_Source\bin\ICSharpCode.SharpDevelop.Dom.dll
+B:\_NTROOTWRK\Verve Kits\verve patch\Framework\SharpDevelop_4.4.0.9722_Source\src\Main\ICSharpCode.SharpDevelop.Dom\Project\obj\Release\ICSharpCode.SharpDevelop.Dom.csprojResolveAssemblyReference.cache
+B:\_NTROOTWRK\Verve Kits\verve patch\Framework\SharpDevelop_4.4.0.9722_Source\src\Main\ICSharpCode.SharpDevelop.Dom\Project\obj\Release\ICSharpCode.SharpDevelop.Dom.dll
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\bin\ICSharpCode.SharpDevelop.Dom.dll
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\Main\ICSharpCode.SharpDevelop.Dom\Project\obj\Release\ICSharpCode.SharpDevelop.Dom.csprojAssemblyReference.cache
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\Main\ICSharpCode.SharpDevelop.Dom\Project\obj\Release\ICSharpCode.SharpDevelop.Dom.csproj.CoreCompileInputs.cache
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\Main\ICSharpCode.SharpDevelop.Dom\Project\obj\Release\ICSharpCode.SharpDevelop.Dom.csproj.CopyComplete
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\Main\ICSharpCode.SharpDevelop.Dom\Project\obj\Release\ICSharpCode.SharpDevelop.Dom.dll

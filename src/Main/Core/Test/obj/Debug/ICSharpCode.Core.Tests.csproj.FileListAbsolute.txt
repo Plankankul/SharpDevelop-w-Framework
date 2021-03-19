@@ -1,0 +1,7 @@
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\bin\UnitTests\ICSharpCode.Core.Tests.dll
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\bin\UnitTests\ICSharpCode.Core.Tests.pdb
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\Main\Core\Test\obj\Debug\ICSharpCode.Core.Tests.csprojAssemblyReference.cache
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\Main\Core\Test\obj\Debug\ICSharpCode.Core.Tests.csproj.CoreCompileInputs.cache
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\Main\Core\Test\obj\Debug\ICSharpCode.Core.Tests.csproj.CopyComplete
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\Main\Core\Test\obj\Debug\ICSharpCode.Core.Tests.dll
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\Main\Core\Test\obj\Debug\ICSharpCode.Core.Tests.pdb

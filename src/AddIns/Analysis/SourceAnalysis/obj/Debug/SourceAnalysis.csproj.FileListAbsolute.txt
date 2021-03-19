@@ -1,0 +1,14 @@
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\AddIns\Analysis\SourceAnalysis\SharpDevelop.SourceAnalysis.targets
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\AddIns\Analysis\SourceAnalysis\SourceAnalysis.addin
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\AddIns\Analysis\SourceAnalysis\SourceAnalysis.dll
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\AddIns\Analysis\SourceAnalysis\SourceAnalysis.pdb
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\Analysis\SourceAnalysis\obj\Debug\SourceAnalysis.csprojAssemblyReference.cache
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\Analysis\SourceAnalysis\obj\Debug\Src\AnalysisIdeOptionsPanel.baml
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\Analysis\SourceAnalysis\obj\Debug\Src\AnalysisOptionsPanel.baml
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\Analysis\SourceAnalysis\obj\Debug\Src\AnalysisIdeOptionsPanel.g.cs
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\Analysis\SourceAnalysis\obj\Debug\Src\AnalysisOptionsPanel.g.cs
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\Analysis\SourceAnalysis\obj\Debug\SourceAnalysis_MarkupCompile.cache
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\Analysis\SourceAnalysis\obj\Debug\SourceAnalysis.g.resources
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\Analysis\SourceAnalysis\obj\Debug\SourceAnalysis.csproj.CoreCompileInputs.cache
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\Analysis\SourceAnalysis\obj\Debug\SourceAnalysis.dll
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\Analysis\SourceAnalysis\obj\Debug\SourceAnalysis.pdb

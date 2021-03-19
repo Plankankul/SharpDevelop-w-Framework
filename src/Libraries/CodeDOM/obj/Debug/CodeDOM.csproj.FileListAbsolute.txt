@@ -1,0 +1,27 @@
+B:\_NTROOTWRK\_Research\sysnet\Verve Kits\runtime-plus\Windows\CodeDOM\obj\Debug\CodeDOM.csproj.CoreCompileInputs.cache
+B:\_NTROOTWRK\_Research\sysnet\Verve Kits\runtime-plus\Windows\CodeDOM\bin\Debug\CodeDOM.dll
+B:\_NTROOTWRK\_Research\sysnet\Verve Kits\runtime-plus\Windows\CodeDOM\bin\Debug\CodeDOM.pdb
+B:\_NTROOTWRK\_Research\sysnet\Verve Kits\runtime-plus\Windows\CodeDOM\obj\Debug\CodeDOM.dll
+B:\_NTROOTWRK\_Research\sysnet\Verve Kits\runtime-plus\Windows\CodeDOM\obj\Debug\CodeDOM.pdb
+B:\_NTROOTWRK\_Research\sysnet\Verve Kits\runtime-plus\Windows\Distro\CodeDOM.dll
+B:\_NTROOTWRK\_Research\sysnet\Verve Kits\runtime-plus\Windows\Distro\CodeDOM.pdb
+B:\_NTROOTWRK\_Research\sysnet\Verve Kits\runtime-plus\Windows\Distro\CodeDOM.xml
+B:\JonathanMoore\Framework\trunk\Framework\Framework\CodeDOM\Distro\CodeDOM.dll
+B:\JonathanMoore\Framework\trunk\Framework\Framework\CodeDOM\Distro\CodeDOM.pdb
+B:\JonathanMoore\Framework\trunk\Framework\Framework\CodeDOM\Distro\CodeDOM.xml
+B:\JonathanMoore\Framework\trunk\Framework\Framework\CodeDOM\obj\Debug\CodeDOM.csproj.CoreCompileInputs.cache
+B:\JonathanMoore\Framework\trunk\Framework\Framework\CodeDOM\obj\Debug\CodeDOM.dll
+B:\JonathanMoore\Framework\trunk\Framework\Framework\CodeDOM\obj\Debug\CodeDOM.pdb
+B:\JonathanMoore\Framework\trunk\Framework\Distro\CodeDOM.dll
+B:\JonathanMoore\Framework\trunk\Framework\Distro\CodeDOM.pdb
+B:\JonathanMoore\Framework\trunk\Framework\Distro\CodeDOM.xml
+B:\_NTROOTWRK\Verve Kits\verve patch\Framework\Distro\CodeDOM.dll
+B:\_NTROOTWRK\Verve Kits\verve patch\Framework\Distro\CodeDOM.pdb
+B:\_NTROOTWRK\Verve Kits\verve patch\Framework\Distro\CodeDOM.xml
+B:\_NTROOTWRK\Verve Kits\verve patch\Framework\Framework\CodeDOM\obj\Debug\CodeDOM.csproj.CoreCompileInputs.cache
+B:\_NTROOTWRK\Verve Kits\verve patch\Framework\Framework\CodeDOM\obj\Debug\CodeDOM.dll
+B:\_NTROOTWRK\Verve Kits\verve patch\Framework\Framework\CodeDOM\obj\Debug\CodeDOM.pdb
+B:\_NTROOTWRK\Verve Kits\verve patch\Framework\Distro\XML\CodeDOM.xml
+B:\_NTROOTWRK\Verve Kits\verve patch\Framework\Framework\CodeDOM\obj\Debug\CodeDOM.csprojAssemblyReference.cache
+B:\_NTROOTWRK\Verve Kits\verve patch\Framework\Distro\CodeDOM.dll.CodeAnalysisLog.xml
+B:\_NTROOTWRK\Verve Kits\verve patch\Framework\Distro\CodeDOM.dll.lastcodeanalysissucceeded

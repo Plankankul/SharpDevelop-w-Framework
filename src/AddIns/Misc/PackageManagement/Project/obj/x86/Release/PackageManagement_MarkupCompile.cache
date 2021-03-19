@@ -1,0 +1,20 @@
+﻿PackageManagement
+
+
+library
+C#
+.cs
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\Misc\PackageManagement\Project\obj\x86\Release\
+ICSharpCode.PackageManagement
+none
+false
+TRACE
+
+11556901590
+
+413261732931
+24-1618938384
+Src\FileConflictView.xaml;Src\ManagePackagesView.xaml;Src\LicenseAcceptanceView.xaml;Src\PackageManagementOptionsView.xaml;Src\RegisteredPackageSourcesUserControl.xaml;Src\RegisteredPackageSourcesView.xaml;Src\PackagesView.xaml;Src\PagedResultsView.xaml;Src\RegisteredProjectTemplatePackageSourcesView.xaml;Src\Scripting\PackageManagementConsoleView.xaml;Src\SelectProjectsView.xaml;
+
+False
+

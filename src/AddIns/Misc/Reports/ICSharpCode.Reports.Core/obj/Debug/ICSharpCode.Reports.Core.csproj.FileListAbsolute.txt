@@ -1,0 +1,16 @@
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\AddIns\Misc\SharpDevelopReports\ICSharpCode.Reports.Core.dll
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\AddIns\Misc\SharpDevelopReports\ICSharpCode.Reports.Core.pdb
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\Misc\Reports\ICSharpCode.Reports.Core\obj\Debug\ICSharpCode.Reports.Core.csprojAssemblyReference.cache
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\Misc\Reports\ICSharpCode.Reports.Core\obj\Debug\Project\WpfReportViewer\WpfReportViewer.baml
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\Misc\Reports\ICSharpCode.Reports.Core\obj\Debug\Project\WpfReportViewer\WpfReportViewer.g.cs
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\Misc\Reports\ICSharpCode.Reports.Core\obj\Debug\ICSharpCode.Reports.Core_MarkupCompile.cache
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\Misc\Reports\ICSharpCode.Reports.Core\obj\Debug\ICSharpCode.Reports.Core.g.resources
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\Misc\Reports\ICSharpCode.Reports.Core\obj\Debug\ICSharpCode.Reports.Core.Dialogs.TextEditorDialog.resources
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\Misc\Reports\ICSharpCode.Reports.Core\obj\Debug\ICSharpCode.Reports.Core.Dialogs.ParameterDialog.resources
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\Misc\Reports\ICSharpCode.Reports.Core\obj\Debug\ICSharpCode.Reports.Core.ReportViewer.PreviewControl.resources
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\Misc\Reports\ICSharpCode.Reports.Core\obj\Debug\ICSharpCode.Reports.Core.Project.Resources.CoreResource.resources
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\Misc\Reports\ICSharpCode.Reports.Core\obj\Debug\ICSharpCode.Reports.Core.csproj.GenerateResource.cache
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\Misc\Reports\ICSharpCode.Reports.Core\obj\Debug\ICSharpCode.Reports.Core.csproj.CoreCompileInputs.cache
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\Misc\Reports\ICSharpCode.Reports.Core\obj\Debug\ICSharpCode.Reports.Core.csproj.CopyComplete
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\Misc\Reports\ICSharpCode.Reports.Core\obj\Debug\ICSharpCode.Reports.Core.dll
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\Misc\Reports\ICSharpCode.Reports.Core\obj\Debug\ICSharpCode.Reports.Core.pdb

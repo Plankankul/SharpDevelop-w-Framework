@@ -1,0 +1,7 @@
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\bin\ICSharpCode.SharpDevelop.BuildWorker40.exe.config
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\bin\ICSharpCode.SharpDevelop.BuildWorker40.exe
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\bin\ICSharpCode.SharpDevelop.BuildWorker40.pdb
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\Main\ICSharpCode.SharpDevelop.BuildWorker\obj\Debug\ICSharpCode.SharpDevelop.BuildWorker.csprojAssemblyReference.cache
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\Main\ICSharpCode.SharpDevelop.BuildWorker\obj\Debug\ICSharpCode.SharpDevelop.BuildWorker.csproj.CoreCompileInputs.cache
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\Main\ICSharpCode.SharpDevelop.BuildWorker\obj\Debug\ICSharpCode.SharpDevelop.BuildWorker40.exe
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\Main\ICSharpCode.SharpDevelop.BuildWorker\obj\Debug\ICSharpCode.SharpDevelop.BuildWorker40.pdb

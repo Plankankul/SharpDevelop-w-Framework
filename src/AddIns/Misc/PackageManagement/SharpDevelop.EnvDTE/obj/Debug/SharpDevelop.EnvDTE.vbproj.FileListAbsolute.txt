@@ -1,0 +1,6 @@
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\bin\SharpDevelop.EnvDTE.dll
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\bin\SharpDevelop.EnvDTE.pdb
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\Misc\PackageManagement\SharpDevelop.EnvDTE\obj\Debug\SharpDevelop.EnvDTE.vbprojAssemblyReference.cache
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\Misc\PackageManagement\SharpDevelop.EnvDTE\obj\Debug\SharpDevelop.EnvDTE.vbproj.CoreCompileInputs.cache
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\Misc\PackageManagement\SharpDevelop.EnvDTE\obj\Debug\SharpDevelop.EnvDTE.dll
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\Misc\PackageManagement\SharpDevelop.EnvDTE\obj\Debug\SharpDevelop.EnvDTE.pdb

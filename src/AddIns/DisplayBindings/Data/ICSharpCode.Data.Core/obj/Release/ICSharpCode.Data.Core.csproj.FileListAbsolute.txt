@@ -1,0 +1,15 @@
+B:\_NTROOTWRK\Verve Kits\verve patch\Framework\SharpDevelop_4.4.0.9722_Source\src\AddIns\DisplayBindings\Data\ICSharpCode.Data.Core\bin\Release\ICSharpCode.Data.Core.dll
+B:\_NTROOTWRK\Verve Kits\verve patch\Framework\SharpDevelop_4.4.0.9722_Source\src\AddIns\DisplayBindings\Data\ICSharpCode.Data.Core\bin\Release\ICSharpCode.Data.Core.pdb
+B:\_NTROOTWRK\Verve Kits\verve patch\Framework\SharpDevelop_4.4.0.9722_Source\src\AddIns\DisplayBindings\Data\ICSharpCode.Data.Core\obj\Release\ICSharpCode.Data.Core.csprojResolveAssemblyReference.cache
+B:\_NTROOTWRK\Verve Kits\verve patch\Framework\SharpDevelop_4.4.0.9722_Source\src\AddIns\DisplayBindings\Data\ICSharpCode.Data.Core\obj\Release\ICSharpCode.Data.Core.Properties.Resources.resources
+B:\_NTROOTWRK\Verve Kits\verve patch\Framework\SharpDevelop_4.4.0.9722_Source\src\AddIns\DisplayBindings\Data\ICSharpCode.Data.Core\obj\Release\ICSharpCode.Data.Core.csproj.GenerateResource.Cache
+B:\_NTROOTWRK\Verve Kits\verve patch\Framework\SharpDevelop_4.4.0.9722_Source\src\AddIns\DisplayBindings\Data\ICSharpCode.Data.Core\obj\Release\ICSharpCode.Data.Core.dll
+B:\_NTROOTWRK\Verve Kits\verve patch\Framework\SharpDevelop_4.4.0.9722_Source\src\AddIns\DisplayBindings\Data\ICSharpCode.Data.Core\obj\Release\ICSharpCode.Data.Core.pdb
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\DisplayBindings\Data\ICSharpCode.Data.Core\bin\Release\ICSharpCode.Data.Core.dll
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\DisplayBindings\Data\ICSharpCode.Data.Core\bin\Release\ICSharpCode.Data.Core.pdb
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\DisplayBindings\Data\ICSharpCode.Data.Core\obj\Release\ICSharpCode.Data.Core.csprojAssemblyReference.cache
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\DisplayBindings\Data\ICSharpCode.Data.Core\obj\Release\ICSharpCode.Data.Core.Properties.Resources.resources
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\DisplayBindings\Data\ICSharpCode.Data.Core\obj\Release\ICSharpCode.Data.Core.csproj.GenerateResource.cache
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\DisplayBindings\Data\ICSharpCode.Data.Core\obj\Release\ICSharpCode.Data.Core.csproj.CoreCompileInputs.cache
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\DisplayBindings\Data\ICSharpCode.Data.Core\obj\Release\ICSharpCode.Data.Core.dll
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\DisplayBindings\Data\ICSharpCode.Data.Core\obj\Release\ICSharpCode.Data.Core.pdb

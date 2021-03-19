@@ -1,0 +1,11 @@
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\AddIns\DisplayBindings\Data\ICSharpCode.Data.SQLServer.dll
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\AddIns\DisplayBindings\Data\ICSharpCode.Data.SQLServer.pdb
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\DisplayBindings\Data\ICSharpCode.Data.SQLServer\obj\Debug\ICSharpCode.Data.SQLServer.csprojAssemblyReference.cache
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\DisplayBindings\Data\ICSharpCode.Data.SQLServer\obj\Debug\ControlPanel\SQLServerControlPanel.baml
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\DisplayBindings\Data\ICSharpCode.Data.SQLServer\obj\Debug\ControlPanel\SQLServerControlPanel.g.cs
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\DisplayBindings\Data\ICSharpCode.Data.SQLServer\obj\Debug\ICSharpCode.Data.SQLServer_MarkupCompile.cache
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\DisplayBindings\Data\ICSharpCode.Data.SQLServer\obj\Debug\ICSharpCode.Data.SQLServer.g.resources
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\DisplayBindings\Data\ICSharpCode.Data.SQLServer\obj\Debug\ICSharpCode.Data.SQLServer.csproj.CoreCompileInputs.cache
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\DisplayBindings\Data\ICSharpCode.Data.SQLServer\obj\Debug\ICSharpCode.Data.SQLServer.csproj.CopyComplete
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\DisplayBindings\Data\ICSharpCode.Data.SQLServer\obj\Debug\ICSharpCode.Data.SQLServer.dll
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\DisplayBindings\Data\ICSharpCode.Data.SQLServer\obj\Debug\ICSharpCode.Data.SQLServer.pdb

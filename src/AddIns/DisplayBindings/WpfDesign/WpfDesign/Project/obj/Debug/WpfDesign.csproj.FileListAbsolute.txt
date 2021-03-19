@@ -1,0 +1,12 @@
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\AddIns\DisplayBindings\WpfDesign\ICSharpCode.WpfDesign.xml
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\AddIns\DisplayBindings\WpfDesign\ICSharpCode.WpfDesign.dll
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\AddIns\DisplayBindings\WpfDesign\ICSharpCode.WpfDesign.pdb
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\DisplayBindings\WpfDesign\WpfDesign\Project\obj\Debug\PropertyGrid\Editors\ComboBoxEditor.baml
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\DisplayBindings\WpfDesign\WpfDesign\Project\obj\Debug\PropertyGrid\Editors\TextBoxEditor.baml
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\DisplayBindings\WpfDesign\WpfDesign\Project\obj\Debug\PropertyGrid\Editors\ComboBoxEditor.g.cs
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\DisplayBindings\WpfDesign\WpfDesign\Project\obj\Debug\PropertyGrid\Editors\TextBoxEditor.g.cs
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\DisplayBindings\WpfDesign\WpfDesign\Project\obj\Debug\ICSharpCode.WpfDesign_MarkupCompile.cache
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\DisplayBindings\WpfDesign\WpfDesign\Project\obj\Debug\ICSharpCode.WpfDesign.g.resources
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\DisplayBindings\WpfDesign\WpfDesign\Project\obj\Debug\WpfDesign.csproj.CoreCompileInputs.cache
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\DisplayBindings\WpfDesign\WpfDesign\Project\obj\Debug\ICSharpCode.WpfDesign.dll
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\DisplayBindings\WpfDesign\WpfDesign\Project\obj\Debug\ICSharpCode.WpfDesign.pdb

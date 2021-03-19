@@ -1,0 +1,13 @@
+B:\_NTROOTWRK\Verve Kits\verve patch\Framework\SharpDevelop_4.4.0.9722_Source\bin\SharpDevelop.TargetingPack.targets
+B:\_NTROOTWRK\Verve Kits\verve patch\Framework\SharpDevelop_4.4.0.9722_Source\bin\SharpDevelop.CodeAnalysis.targets
+B:\_NTROOTWRK\Verve Kits\verve patch\Framework\SharpDevelop_4.4.0.9722_Source\bin\SharpDevelop.CheckMSBuild35Features.targets
+B:\_NTROOTWRK\Verve Kits\verve patch\Framework\SharpDevelop_4.4.0.9722_Source\bin\ICSharpCode.Build.Tasks.dll
+B:\_NTROOTWRK\Verve Kits\verve patch\Framework\SharpDevelop_4.4.0.9722_Source\src\Libraries\ICSharpCode.Build.Tasks\Project\obj\Release\ICSharpCode.Build.Tasks.csprojResolveAssemblyReference.cache
+B:\_NTROOTWRK\Verve Kits\verve patch\Framework\SharpDevelop_4.4.0.9722_Source\src\Libraries\ICSharpCode.Build.Tasks\Project\obj\Release\ICSharpCode.Build.Tasks.dll
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\bin\SharpDevelop.TargetingPack.targets
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\bin\SharpDevelop.CodeAnalysis.targets
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\bin\SharpDevelop.CheckMSBuild35Features.targets
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\bin\ICSharpCode.Build.Tasks.dll
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\Libraries\ICSharpCode.Build.Tasks\Project\obj\Release\ICSharpCode.Build.Tasks.csprojAssemblyReference.cache
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\Libraries\ICSharpCode.Build.Tasks\Project\obj\Release\ICSharpCode.Build.Tasks.csproj.CoreCompileInputs.cache
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\Libraries\ICSharpCode.Build.Tasks\Project\obj\Release\ICSharpCode.Build.Tasks.dll

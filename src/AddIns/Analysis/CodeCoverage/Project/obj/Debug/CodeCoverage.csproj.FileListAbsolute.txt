@@ -1,0 +1,13 @@
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\AddIns\Analysis\CodeCoverage\CodeCoverage.addin
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\AddIns\Analysis\CodeCoverage\CodeCoverage.dll
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\AddIns\Analysis\CodeCoverage\CodeCoverage.pdb
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\Analysis\CodeCoverage\Project\obj\Debug\CodeCoverage.csprojAssemblyReference.cache
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\Analysis\CodeCoverage\Project\obj\Debug\Src\CodeCoverageOptionsPanel.baml
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\Analysis\CodeCoverage\Project\obj\Debug\Src\CodeCoverageProjectOptionsPanel.baml
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\Analysis\CodeCoverage\Project\obj\Debug\Src\CodeCoverageOptionsPanel.g.cs
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\Analysis\CodeCoverage\Project\obj\Debug\Src\CodeCoverageProjectOptionsPanel.g.cs
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\Analysis\CodeCoverage\Project\obj\Debug\CodeCoverage_MarkupCompile.cache
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\Analysis\CodeCoverage\Project\obj\Debug\CodeCoverage.g.resources
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\Analysis\CodeCoverage\Project\obj\Debug\CodeCoverage.csproj.CoreCompileInputs.cache
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\Analysis\CodeCoverage\Project\obj\Debug\CodeCoverage.dll
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\Analysis\CodeCoverage\Project\obj\Debug\CodeCoverage.pdb

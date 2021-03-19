@@ -1,0 +1,17 @@
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\bin\ICSharpCode.AvalonEdit.xml
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\bin\ICSharpCode.AvalonEdit.dll
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\bin\ICSharpCode.AvalonEdit.pdb
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\Libraries\AvalonEdit\ICSharpCode.AvalonEdit\obj\Debug\ICSharpCode.AvalonEdit.csprojAssemblyReference.cache
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\Libraries\AvalonEdit\ICSharpCode.AvalonEdit\obj\Debug\GeneratedInternalTypeHelper.g.cs
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\Libraries\AvalonEdit\ICSharpCode.AvalonEdit\obj\Debug\ICSharpCode.AvalonEdit_MarkupCompile.cache
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\Libraries\AvalonEdit\ICSharpCode.AvalonEdit\obj\Debug\ICSharpCode.AvalonEdit_MarkupCompile.lref
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\Libraries\AvalonEdit\ICSharpCode.AvalonEdit\obj\Debug\CodeCompletion\CompletionList.baml
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\Libraries\AvalonEdit\ICSharpCode.AvalonEdit\obj\Debug\CodeCompletion\InsightWindow.baml
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\Libraries\AvalonEdit\ICSharpCode.AvalonEdit\obj\Debug\Search\SearchPanel.baml
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\Libraries\AvalonEdit\ICSharpCode.AvalonEdit\obj\Debug\Search\DropDownButton.baml
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\Libraries\AvalonEdit\ICSharpCode.AvalonEdit\obj\Debug\TextEditor.baml
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\Libraries\AvalonEdit\ICSharpCode.AvalonEdit\obj\Debug\themes\generic.baml
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\Libraries\AvalonEdit\ICSharpCode.AvalonEdit\obj\Debug\ICSharpCode.AvalonEdit.g.resources
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\Libraries\AvalonEdit\ICSharpCode.AvalonEdit\obj\Debug\ICSharpCode.AvalonEdit.csproj.CoreCompileInputs.cache
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\Libraries\AvalonEdit\ICSharpCode.AvalonEdit\obj\Debug\ICSharpCode.AvalonEdit.dll
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\Libraries\AvalonEdit\ICSharpCode.AvalonEdit\obj\Debug\ICSharpCode.AvalonEdit.pdb

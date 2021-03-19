@@ -1,0 +1,9 @@
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\Analysis\Profiler\X64Converter\bin\Profiler.X64Converter.exe
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\Analysis\Profiler\X64Converter\bin\Profiler.X64Converter.pdb
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\Analysis\Profiler\X64Converter\bin\ICSharpCode.NRefactory.dll
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\Analysis\Profiler\X64Converter\bin\ICSharpCode.NRefactory.pdb
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\Analysis\Profiler\X64Converter\obj\Debug\Profiler.X64Converter.csprojAssemblyReference.cache
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\Analysis\Profiler\X64Converter\obj\Debug\Profiler.X64Converter.csproj.CoreCompileInputs.cache
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\Analysis\Profiler\X64Converter\obj\Debug\Profiler.X64Converter.csproj.CopyComplete
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\Analysis\Profiler\X64Converter\obj\Debug\Profiler.X64Converter.exe
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\Analysis\Profiler\X64Converter\obj\Debug\Profiler.X64Converter.pdb

@@ -1,0 +1,5 @@
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\DisplayBindings\ClassDiagram\DiagramRouter\bin\Debug\Diagrams.dll
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\DisplayBindings\ClassDiagram\DiagramRouter\bin\Debug\Diagrams.pdb
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\DisplayBindings\ClassDiagram\DiagramRouter\obj\Debug\Diagrams.csproj.CoreCompileInputs.cache
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\DisplayBindings\ClassDiagram\DiagramRouter\obj\Debug\Diagrams.dll
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\DisplayBindings\ClassDiagram\DiagramRouter\obj\Debug\Diagrams.pdb

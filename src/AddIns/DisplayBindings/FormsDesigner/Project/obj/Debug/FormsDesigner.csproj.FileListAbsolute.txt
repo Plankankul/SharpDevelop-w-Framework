@@ -1,0 +1,17 @@
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\AddIns\DisplayBindings\FormsDesigner\FormsDesigner.dll
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\AddIns\DisplayBindings\FormsDesigner\FormsDesigner.pdb
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\DisplayBindings\FormsDesigner\Project\obj\Debug\FormsDesigner.csprojAssemblyReference.cache
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\DisplayBindings\FormsDesigner\Project\obj\Debug\Src\Gui\OptionPanels\GeneralOptionsPanel.baml
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\DisplayBindings\FormsDesigner\Project\obj\Debug\Src\Gui\OptionPanels\GridOptionsPanel.baml
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\DisplayBindings\FormsDesigner\Project\obj\Debug\Src\Gui\OptionPanels\LocalizationModelOptionsPanel.baml
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\DisplayBindings\FormsDesigner\Project\obj\Debug\Src\Gui\OptionPanels\GeneralOptionsPanel.g.cs
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\DisplayBindings\FormsDesigner\Project\obj\Debug\Src\Gui\OptionPanels\GridOptionsPanel.g.cs
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\DisplayBindings\FormsDesigner\Project\obj\Debug\Src\Gui\OptionPanels\LocalizationModelOptionsPanel.g.cs
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\DisplayBindings\FormsDesigner\Project\obj\Debug\FormsDesigner_MarkupCompile.cache
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\DisplayBindings\FormsDesigner\Project\obj\Debug\FormsDesigner.g.resources
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\DisplayBindings\FormsDesigner\Project\obj\Debug\ICSharpCode.FormsDesigner.Gui.ImageResourceEditorDialog.resources
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\DisplayBindings\FormsDesigner\Project\obj\Debug\FormsDesigner.csproj.GenerateResource.cache
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\DisplayBindings\FormsDesigner\Project\obj\Debug\FormsDesigner.csproj.CoreCompileInputs.cache
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\DisplayBindings\FormsDesigner\Project\obj\Debug\FormsDesigner.csproj.CopyComplete
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\DisplayBindings\FormsDesigner\Project\obj\Debug\FormsDesigner.dll
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\DisplayBindings\FormsDesigner\Project\obj\Debug\FormsDesigner.pdb

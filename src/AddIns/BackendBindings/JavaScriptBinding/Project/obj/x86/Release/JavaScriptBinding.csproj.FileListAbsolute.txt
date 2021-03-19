@@ -1,0 +1,10 @@
+B:\_NTROOTWRK\Verve Kits\verve patch\Framework\SharpDevelop_4.4.0.9722_Source\AddIns\BackendBindings\JavaScriptBinding\JavaScriptBinding.addin
+B:\_NTROOTWRK\Verve Kits\verve patch\Framework\SharpDevelop_4.4.0.9722_Source\AddIns\BackendBindings\JavaScriptBinding\JavaScriptBinding.dll
+B:\_NTROOTWRK\Verve Kits\verve patch\Framework\SharpDevelop_4.4.0.9722_Source\src\AddIns\BackendBindings\JavaScriptBinding\Project\obj\x86\Release\JavaScriptBinding.csprojResolveAssemblyReference.cache
+B:\_NTROOTWRK\Verve Kits\verve patch\Framework\SharpDevelop_4.4.0.9722_Source\src\AddIns\BackendBindings\JavaScriptBinding\Project\obj\x86\Release\JavaScriptBinding.dll
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\AddIns\BackendBindings\JavaScriptBinding\JavaScriptBinding.addin
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\AddIns\BackendBindings\JavaScriptBinding\JavaScriptBinding.dll
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\BackendBindings\JavaScriptBinding\Project\obj\x86\Release\JavaScriptBinding.csprojAssemblyReference.cache
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\BackendBindings\JavaScriptBinding\Project\obj\x86\Release\JavaScriptBinding.csproj.CoreCompileInputs.cache
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\BackendBindings\JavaScriptBinding\Project\obj\x86\Release\JavaScriptBinding.csproj.CopyComplete
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\BackendBindings\JavaScriptBinding\Project\obj\x86\Release\JavaScriptBinding.dll

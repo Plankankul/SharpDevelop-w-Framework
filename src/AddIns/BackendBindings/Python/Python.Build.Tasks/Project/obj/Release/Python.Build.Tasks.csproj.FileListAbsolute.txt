@@ -1,0 +1,10 @@
+B:\_NTROOTWRK\Verve Kits\verve patch\Framework\SharpDevelop_4.4.0.9722_Source\AddIns\BackendBindings\PythonBinding\SharpDevelop.Build.Python.targets
+B:\_NTROOTWRK\Verve Kits\verve patch\Framework\SharpDevelop_4.4.0.9722_Source\AddIns\BackendBindings\PythonBinding\Python.Build.Tasks.dll
+B:\_NTROOTWRK\Verve Kits\verve patch\Framework\SharpDevelop_4.4.0.9722_Source\src\AddIns\BackendBindings\Python\Python.Build.Tasks\Project\obj\Release\Python.Build.Tasks.csprojResolveAssemblyReference.cache
+B:\_NTROOTWRK\Verve Kits\verve patch\Framework\SharpDevelop_4.4.0.9722_Source\src\AddIns\BackendBindings\Python\Python.Build.Tasks\Project\obj\Release\Python.Build.Tasks.dll
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\AddIns\BackendBindings\PythonBinding\SharpDevelop.Build.Python.targets
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\AddIns\BackendBindings\PythonBinding\Python.Build.Tasks.dll
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\BackendBindings\Python\Python.Build.Tasks\Project\obj\Release\Python.Build.Tasks.csprojAssemblyReference.cache
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\BackendBindings\Python\Python.Build.Tasks\Project\obj\Release\Python.Build.Tasks.csproj.CoreCompileInputs.cache
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\BackendBindings\Python\Python.Build.Tasks\Project\obj\Release\Python.Build.Tasks.csproj.CopyComplete
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\BackendBindings\Python\Python.Build.Tasks\Project\obj\Release\Python.Build.Tasks.dll

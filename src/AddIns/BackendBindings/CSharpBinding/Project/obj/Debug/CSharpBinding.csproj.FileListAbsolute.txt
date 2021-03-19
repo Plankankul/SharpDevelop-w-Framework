@@ -1,0 +1,12 @@
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\AddIns\BackendBindings\CSharpBinding\CSharpBinding.addin
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\AddIns\BackendBindings\CSharpBinding\CSharpBinding.dll
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\AddIns\BackendBindings\CSharpBinding\CSharpBinding.pdb
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\BackendBindings\CSharpBinding\Project\obj\Debug\CSharpBinding.csprojAssemblyReference.cache
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\BackendBindings\CSharpBinding\Project\obj\Debug\Src\OptionPanels\BuildOptions.g.cs
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\BackendBindings\CSharpBinding\Project\obj\Debug\CSharpBinding_MarkupCompile.cache
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\BackendBindings\CSharpBinding\Project\obj\Debug\CSharpBinding_MarkupCompile.lref
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\BackendBindings\CSharpBinding\Project\obj\Debug\Src\OptionPanels\BuildOptions.baml
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\BackendBindings\CSharpBinding\Project\obj\Debug\CSharpBinding.g.resources
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\BackendBindings\CSharpBinding\Project\obj\Debug\CSharpBinding.csproj.CoreCompileInputs.cache
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\BackendBindings\CSharpBinding\Project\obj\Debug\CSharpBinding.dll
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\BackendBindings\CSharpBinding\Project\obj\Debug\CSharpBinding.pdb

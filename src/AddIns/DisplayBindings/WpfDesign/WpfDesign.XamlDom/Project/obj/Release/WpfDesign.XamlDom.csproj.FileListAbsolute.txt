@@ -1,0 +1,8 @@
+B:\_NTROOTWRK\Verve Kits\verve patch\Framework\SharpDevelop_4.4.0.9722_Source\AddIns\DisplayBindings\WpfDesign\ICSharpCode.WpfDesign.XamlDom.xml
+B:\_NTROOTWRK\Verve Kits\verve patch\Framework\SharpDevelop_4.4.0.9722_Source\AddIns\DisplayBindings\WpfDesign\ICSharpCode.WpfDesign.XamlDom.dll
+B:\_NTROOTWRK\Verve Kits\verve patch\Framework\SharpDevelop_4.4.0.9722_Source\src\AddIns\DisplayBindings\WpfDesign\WpfDesign.XamlDom\Project\obj\Release\WpfDesign.XamlDom.csprojResolveAssemblyReference.cache
+B:\_NTROOTWRK\Verve Kits\verve patch\Framework\SharpDevelop_4.4.0.9722_Source\src\AddIns\DisplayBindings\WpfDesign\WpfDesign.XamlDom\Project\obj\Release\ICSharpCode.WpfDesign.XamlDom.dll
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\AddIns\DisplayBindings\WpfDesign\ICSharpCode.WpfDesign.XamlDom.xml
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\AddIns\DisplayBindings\WpfDesign\ICSharpCode.WpfDesign.XamlDom.dll
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\DisplayBindings\WpfDesign\WpfDesign.XamlDom\Project\obj\Release\WpfDesign.XamlDom.csproj.CoreCompileInputs.cache
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\DisplayBindings\WpfDesign\WpfDesign.XamlDom\Project\obj\Release\ICSharpCode.WpfDesign.XamlDom.dll

@@ -1,0 +1,5 @@
+B:\_NTROOTWRK\Verve Kits\verve patch\Framework\SharpDevelop_4.4.0.9722_Source\bin\UnitTests\ICSharpCode.Core.Tests.dll
+B:\_NTROOTWRK\Verve Kits\verve patch\Framework\SharpDevelop_4.4.0.9722_Source\bin\UnitTests\ICSharpCode.Core.Tests.pdb
+B:\_NTROOTWRK\Verve Kits\verve patch\Framework\SharpDevelop_4.4.0.9722_Source\src\Main\Core\Test\obj\Release\ICSharpCode.Core.Tests.csprojResolveAssemblyReference.cache
+B:\_NTROOTWRK\Verve Kits\verve patch\Framework\SharpDevelop_4.4.0.9722_Source\src\Main\Core\Test\obj\Release\ICSharpCode.Core.Tests.dll
+B:\_NTROOTWRK\Verve Kits\verve patch\Framework\SharpDevelop_4.4.0.9722_Source\src\Main\Core\Test\obj\Release\ICSharpCode.Core.Tests.pdb

@@ -1,0 +1,17 @@
+B:\_NTROOTWRK\Verve Kits\verve patch\Framework\SharpDevelop_4.4.0.9722_Source\AddIns\BackendBindings\FSharpBinding\FSharpBinding.addin
+B:\_NTROOTWRK\Verve Kits\verve patch\Framework\SharpDevelop_4.4.0.9722_Source\AddIns\BackendBindings\FSharpBinding\Templates\EmptyClass.xft
+B:\_NTROOTWRK\Verve Kits\verve patch\Framework\SharpDevelop_4.4.0.9722_Source\AddIns\BackendBindings\FSharpBinding\Templates\FSharp2LibraryProject.xpt
+B:\_NTROOTWRK\Verve Kits\verve patch\Framework\SharpDevelop_4.4.0.9722_Source\AddIns\BackendBindings\FSharpBinding\Templates\FSharp2ConsoleProject.xpt
+B:\_NTROOTWRK\Verve Kits\verve patch\Framework\SharpDevelop_4.4.0.9722_Source\AddIns\BackendBindings\FSharpBinding\Templates\FSharp3LibraryProject.xpt
+B:\_NTROOTWRK\Verve Kits\verve patch\Framework\SharpDevelop_4.4.0.9722_Source\AddIns\BackendBindings\FSharpBinding\Templates\FSharp3ConsoleProject.xpt
+B:\_NTROOTWRK\Verve Kits\verve patch\Framework\SharpDevelop_4.4.0.9722_Source\AddIns\BackendBindings\FSharpBinding\FSharpBinding.dll
+B:\_NTROOTWRK\Verve Kits\verve patch\Framework\SharpDevelop_4.4.0.9722_Source\src\AddIns\BackendBindings\FSharpBinding\obj\Release\FSharpBinding.dll
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\AddIns\BackendBindings\FSharpBinding\FSharpBinding.addin
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\AddIns\BackendBindings\FSharpBinding\Templates\EmptyClass.xft
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\AddIns\BackendBindings\FSharpBinding\Templates\FSharp2LibraryProject.xpt
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\AddIns\BackendBindings\FSharpBinding\Templates\FSharp2ConsoleProject.xpt
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\AddIns\BackendBindings\FSharpBinding\Templates\FSharp3LibraryProject.xpt
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\AddIns\BackendBindings\FSharpBinding\Templates\FSharp3ConsoleProject.xpt
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\AddIns\BackendBindings\FSharpBinding\FSharpBinding.dll
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\BackendBindings\FSharpBinding\obj\Release\FSharpBinding.csproj.CoreCompileInputs.cache
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\BackendBindings\FSharpBinding\obj\Release\FSharpBinding.dll

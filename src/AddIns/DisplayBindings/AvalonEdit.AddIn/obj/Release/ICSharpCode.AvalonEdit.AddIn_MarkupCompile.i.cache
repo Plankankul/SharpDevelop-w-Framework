@@ -1,0 +1,20 @@
+﻿ICSharpCode.AvalonEdit.AddIn
+
+
+library
+C#
+.cs
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\DisplayBindings\AvalonEdit.AddIn\obj\Release\
+ICSharpCode.AvalonEdit.AddIn
+none
+false
+TRACE
+
+121936459703
+
+68-844377637
+24-1534761924
+Src\DiffControl.xaml;Src\HiddenDefinition\HiddenDefinitionControl.xaml;Src\SharpDevelopCompletionWindow.xaml;themes\generic.xaml;Src\ChooseEncodingDialog.xaml;Src\Commands\SortOptionsDialog.xaml;Src\Options\BehaviorOptions.xaml;Src\Options\GeneralEditorOptions.xaml;Src\Options\HighlightingOptions.xaml;Src\Options\TextViewOptions.xaml;Src\Snippets\SnippetOptionPanel.xaml;Src\QuickClassBrowser.xaml;
+
+True
+

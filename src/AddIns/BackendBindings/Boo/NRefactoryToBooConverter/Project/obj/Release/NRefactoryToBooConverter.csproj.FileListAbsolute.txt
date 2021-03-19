@@ -1,0 +1,12 @@
+B:\_NTROOTWRK\Verve Kits\verve patch\Framework\SharpDevelop_4.4.0.9722_Source\src\AddIns\BackendBindings\Boo\NRefactoryToBooConverter\Project\bin\Release\NRefactoryToBooConverter.dll
+B:\_NTROOTWRK\Verve Kits\verve patch\Framework\SharpDevelop_4.4.0.9722_Source\src\AddIns\BackendBindings\Boo\NRefactoryToBooConverter\Project\bin\Release\Boo.Lang.Compiler.dll
+B:\_NTROOTWRK\Verve Kits\verve patch\Framework\SharpDevelop_4.4.0.9722_Source\src\AddIns\BackendBindings\Boo\NRefactoryToBooConverter\Project\bin\Release\Boo.Lang.dll
+B:\_NTROOTWRK\Verve Kits\verve patch\Framework\SharpDevelop_4.4.0.9722_Source\src\AddIns\BackendBindings\Boo\NRefactoryToBooConverter\Project\obj\Release\NRefactoryToBooConverter.csprojResolveAssemblyReference.cache
+B:\_NTROOTWRK\Verve Kits\verve patch\Framework\SharpDevelop_4.4.0.9722_Source\src\AddIns\BackendBindings\Boo\NRefactoryToBooConverter\Project\obj\Release\NRefactoryToBooConverter.dll
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\BackendBindings\Boo\NRefactoryToBooConverter\Project\bin\Release\NRefactoryToBooConverter.dll
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\BackendBindings\Boo\NRefactoryToBooConverter\Project\bin\Release\Boo.Lang.Compiler.dll
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\BackendBindings\Boo\NRefactoryToBooConverter\Project\bin\Release\Boo.Lang.dll
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\BackendBindings\Boo\NRefactoryToBooConverter\Project\obj\Release\NRefactoryToBooConverter.csprojAssemblyReference.cache
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\BackendBindings\Boo\NRefactoryToBooConverter\Project\obj\Release\NRefactoryToBooConverter.csproj.CoreCompileInputs.cache
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\BackendBindings\Boo\NRefactoryToBooConverter\Project\obj\Release\NRefactoryToBooConverter.csproj.CopyComplete
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\BackendBindings\Boo\NRefactoryToBooConverter\Project\obj\Release\NRefactoryToBooConverter.dll

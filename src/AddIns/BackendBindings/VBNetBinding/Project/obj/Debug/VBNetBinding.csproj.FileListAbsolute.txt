@@ -1,0 +1,15 @@
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\AddIns\BackendBindings\VBNetBinding\VBNetBinding.addin
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\AddIns\BackendBindings\VBNetBinding\ICSharpCode.VBNetBinding.dll
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\AddIns\BackendBindings\VBNetBinding\ICSharpCode.VBNetBinding.pdb
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\BackendBindings\VBNetBinding\Project\obj\Debug\Src\OptionPanels\BuildOptions.baml
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\BackendBindings\VBNetBinding\Project\obj\Debug\Src\OptionPanels\ProjectImports.baml
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\BackendBindings\VBNetBinding\Project\obj\Debug\Src\OptionPanels\BuildOptions.g.cs
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\BackendBindings\VBNetBinding\Project\obj\Debug\Src\OptionPanels\ProjectImports.g.cs
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\BackendBindings\VBNetBinding\Project\obj\Debug\Src\OptionPanels\TextEditorOptions.g.cs
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\BackendBindings\VBNetBinding\Project\obj\Debug\ICSharpCode.VBNetBinding_MarkupCompile.cache
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\BackendBindings\VBNetBinding\Project\obj\Debug\ICSharpCode.VBNetBinding_MarkupCompile.lref
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\BackendBindings\VBNetBinding\Project\obj\Debug\Src\OptionPanels\TextEditorOptions.baml
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\BackendBindings\VBNetBinding\Project\obj\Debug\ICSharpCode.VBNetBinding.g.resources
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\BackendBindings\VBNetBinding\Project\obj\Debug\VBNetBinding.csproj.CoreCompileInputs.cache
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\BackendBindings\VBNetBinding\Project\obj\Debug\ICSharpCode.VBNetBinding.dll
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\BackendBindings\VBNetBinding\Project\obj\Debug\ICSharpCode.VBNetBinding.pdb

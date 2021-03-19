@@ -1,0 +1,9 @@
+B:\_NTROOTWRK\Verve Kits\verve patch\Framework\SharpDevelop_4.4.0.9722_Source\bin\ICSharpCode.SharpDevelop.BuildWorker35.exe.config
+B:\_NTROOTWRK\Verve Kits\verve patch\Framework\SharpDevelop_4.4.0.9722_Source\bin\ICSharpCode.SharpDevelop.BuildWorker35.exe
+B:\_NTROOTWRK\Verve Kits\verve patch\Framework\SharpDevelop_4.4.0.9722_Source\src\Main\ICSharpCode.SharpDevelop.BuildWorker35\obj\x86\Release\ICSharpCode.SharpDevelop.BuildWorker35.csprojResolveAssemblyReference.cache
+B:\_NTROOTWRK\Verve Kits\verve patch\Framework\SharpDevelop_4.4.0.9722_Source\src\Main\ICSharpCode.SharpDevelop.BuildWorker35\obj\x86\Release\ICSharpCode.SharpDevelop.BuildWorker35.exe
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\bin\ICSharpCode.SharpDevelop.BuildWorker35.exe.config
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\bin\ICSharpCode.SharpDevelop.BuildWorker35.exe
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\Main\ICSharpCode.SharpDevelop.BuildWorker35\obj\x86\Release\ICSharpCode.SharpDevelop.BuildWorker35.csprojAssemblyReference.cache
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\Main\ICSharpCode.SharpDevelop.BuildWorker35\obj\x86\Release\ICSharpCode.SharpDevelop.BuildWorker35.csproj.CoreCompileInputs.cache
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\Main\ICSharpCode.SharpDevelop.BuildWorker35\obj\x86\Release\ICSharpCode.SharpDevelop.BuildWorker35.exe

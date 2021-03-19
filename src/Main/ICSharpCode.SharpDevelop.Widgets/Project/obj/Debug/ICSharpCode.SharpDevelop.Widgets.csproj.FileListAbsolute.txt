@@ -1,0 +1,15 @@
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\bin\ICSharpCode.SharpDevelop.Widgets.dll
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\bin\ICSharpCode.SharpDevelop.Widgets.pdb
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\Main\ICSharpCode.SharpDevelop.Widgets\Project\obj\Debug\ICSharpCode.SharpDevelop.Widgets.csprojAssemblyReference.cache
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\Main\ICSharpCode.SharpDevelop.Widgets\Project\obj\Debug\ColorPicker.g.cs
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\Main\ICSharpCode.SharpDevelop.Widgets\Project\obj\Debug\GeneratedInternalTypeHelper.g.cs
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\Main\ICSharpCode.SharpDevelop.Widgets\Project\obj\Debug\ICSharpCode.SharpDevelop.Widgets_MarkupCompile.cache
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\Main\ICSharpCode.SharpDevelop.Widgets\Project\obj\Debug\ICSharpCode.SharpDevelop.Widgets_MarkupCompile.lref
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\Main\ICSharpCode.SharpDevelop.Widgets\Project\obj\Debug\ColorPicker.baml
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\Main\ICSharpCode.SharpDevelop.Widgets\Project\obj\Debug\NumericUpDown.baml
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\Main\ICSharpCode.SharpDevelop.Widgets\Project\obj\Debug\themes\generic.baml
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\Main\ICSharpCode.SharpDevelop.Widgets\Project\obj\Debug\ZoomScrollViewer.baml
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\Main\ICSharpCode.SharpDevelop.Widgets\Project\obj\Debug\ICSharpCode.SharpDevelop.Widgets.g.resources
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\Main\ICSharpCode.SharpDevelop.Widgets\Project\obj\Debug\ICSharpCode.SharpDevelop.Widgets.csproj.CoreCompileInputs.cache
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\Main\ICSharpCode.SharpDevelop.Widgets\Project\obj\Debug\ICSharpCode.SharpDevelop.Widgets.dll
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\Main\ICSharpCode.SharpDevelop.Widgets\Project\obj\Debug\ICSharpCode.SharpDevelop.Widgets.pdb

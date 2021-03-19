@@ -1,0 +1,46 @@
+B:\_NTROOTWRK\_Research\sysnet\Verve Kits\runtime-plus\Windows\Collections\obj\Debug\Collections.csproj.CoreCompileInputs.cache
+B:\_NTROOTWRK\_Research\sysnet\Verve Kits\runtime-plus\Windows\Collections\bin\Debug\Collections.dll
+B:\_NTROOTWRK\_Research\sysnet\Verve Kits\runtime-plus\Windows\Collections\bin\Debug\Collections.pdb
+B:\_NTROOTWRK\_Research\sysnet\Verve Kits\runtime-plus\Windows\Collections\obj\Debug\Collections.dll
+B:\_NTROOTWRK\_Research\sysnet\Verve Kits\runtime-plus\Windows\Collections\obj\Debug\Collections.pdb
+B:\_NTROOTWRK\_Research\sysnet\Verve Kits\runtime-plus\Windows\Distro\Collections.dll
+B:\_NTROOTWRK\_Research\sysnet\Verve Kits\runtime-plus\Windows\Distro\Collections.pdb
+B:\_NTROOTWRK\_Research\sysnet\Verve Kits\runtime-plus\Windows\Distro\Collections.xml
+B:\_NTROOTWRK\_Research\sysnet\Verve Kits\runtime-plus\Windows\Collections\obj\Debug\Collections.csprojAssemblyReference.cache
+B:\JonathanMoore\Framework\trunk\Framework\Distro\Collections.dll
+B:\JonathanMoore\Framework\trunk\Framework\Distro\Collections.pdb
+B:\JonathanMoore\Framework\trunk\Framework\Distro\Collections.xml
+B:\JonathanMoore\Framework\trunk\Framework\Framework\Collections\obj\Debug\Collections.csproj.CoreCompileInputs.cache
+B:\JonathanMoore\Framework\trunk\Framework\Framework\Collections\obj\Debug\Collections.dll
+B:\JonathanMoore\Framework\trunk\Framework\Framework\Collections\obj\Debug\Collections.pdb
+B:\_NTROOTWRK\Verve Kits\verve patch\Framework\Distro\Collections.dll
+B:\_NTROOTWRK\Verve Kits\verve patch\Framework\Distro\Collections.pdb
+B:\_NTROOTWRK\Verve Kits\verve patch\Framework\Distro\Collections.xml
+B:\_NTROOTWRK\Verve Kits\verve patch\Framework\Framework\Collections\obj\Debug\Collections.csproj.CoreCompileInputs.cache
+B:\_NTROOTWRK\Verve Kits\verve patch\Framework\Framework\Collections\obj\Debug\Collections.dll
+B:\_NTROOTWRK\Verve Kits\verve patch\Framework\Framework\Collections\obj\Debug\Collections.pdb
+B:\_NTROOTWRK\Verve Kits\verve patch\Framework\Distro\XML\Collections.xml
+B:\_NTROOTWRK\Verve Kits\verve patch\Framework\Distro\Collections.dll.CodeAnalysisLog.xml
+B:\_NTROOTWRK\Verve Kits\verve patch\Framework\Distro\Collections.dll.lastcodeanalysissucceeded
+B:\_NTROOTWRK\Verve Kits\verve patch\Framework\Framework\Collections\obj\Debug\Collections.csprojAssemblyReference.cache
+B:\_NTROOTWRK\Verve Kits\verve patch\Framework\bin\Collections.dll
+B:\_NTROOTWRK\Verve Kits\verve patch\Framework\bin\Collections.pdb
+B:\_NTROOTWRK\Verve Kits\verve patch\Framework\bin\Collections.xml
+B:\_NTROOTWRK\Verve Kits\verve patch\Framework\bin\Collections.dll.CodeAnalysisLog.xml
+B:\_NTROOTWRK\Verve Kits\verve patch\Framework\bin\Collections.dll.lastcodeanalysissucceeded
+B:\_NTROOTWRK\Verve Kits\verve patch\Framework\SharpDevelop_4.4.0.9722_Source\src\Libraries\Collections\obj\Debug\Collections.dll
+B:\_NTROOTWRK\Verve Kits\verve patch\Framework\SharpDevelop_4.4.0.9722_Source\src\Libraries\Collections\obj\Debug\Collections.pdb
+B:\_NTROOTWRK\Verve Kits\verve patch\Framework\SharpDevelop_4.4.0.9722_Source\bin\Collections.dll
+B:\_NTROOTWRK\Verve Kits\verve patch\Framework\SharpDevelop_4.4.0.9722_Source\bin\Collections.pdb
+B:\_NTROOTWRK\Verve Kits\verve patch\Framework\SharpDevelop_4.4.0.9722_Source\bin\Collections.xml
+B:\_NTROOTWRK\Verve Kits\verve patch\Framework\SharpDevelop_4.4.0.9722_Source\bin\Collections.dll.CodeAnalysisLog.xml
+B:\_NTROOTWRK\Verve Kits\verve patch\Framework\SharpDevelop_4.4.0.9722_Source\bin\Collections.dll.lastcodeanalysissucceeded
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\bin\Collections.dll
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\bin\Collections.pdb
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\bin\Collections.xml
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\bin\Collections.dll.CodeAnalysisLog.xml
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\bin\Collections.dll.lastcodeanalysissucceeded
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\Libraries\Collections\obj\Debug\Collections.csprojAssemblyReference.cache
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\Libraries\Collections\obj\Debug\Collections.csproj.CoreCompileInputs.cache
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\Libraries\Collections\obj\Debug\Collections.dll
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\Libraries\Collections\obj\Debug\Collections.pdb

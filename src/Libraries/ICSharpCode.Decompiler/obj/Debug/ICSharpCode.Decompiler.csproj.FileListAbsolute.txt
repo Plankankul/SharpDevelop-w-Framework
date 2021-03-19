@@ -1,0 +1,14 @@
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\Libraries\ICSharpCode.Decompiler\bin\Debug\ICSharpCode.Decompiler.dll
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\Libraries\ICSharpCode.Decompiler\bin\Debug\ICSharpCode.Decompiler.pdb
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\Libraries\ICSharpCode.Decompiler\bin\Debug\ICSharpCode.NewNRefactory.dll
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\Libraries\ICSharpCode.Decompiler\bin\Debug\ICSharpCode.NRefactory.CSharp.dll
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\Libraries\ICSharpCode.Decompiler\bin\Debug\Mono.Cecil.dll
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\Libraries\ICSharpCode.Decompiler\bin\Debug\Mono.Cecil.pdb
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\Libraries\ICSharpCode.Decompiler\bin\Debug\ICSharpCode.NRefactory.CSharp.pdb
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\Libraries\ICSharpCode.Decompiler\bin\Debug\ICSharpCode.NRefactory.CSharp.xml
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\Libraries\ICSharpCode.Decompiler\bin\Debug\ICSharpCode.NewNRefactory.pdb
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\Libraries\ICSharpCode.Decompiler\obj\Debug\ICSharpCode.Decompiler.csprojAssemblyReference.cache
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\Libraries\ICSharpCode.Decompiler\obj\Debug\ICSharpCode.Decompiler.csproj.CoreCompileInputs.cache
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\Libraries\ICSharpCode.Decompiler\obj\Debug\ICSharpCode.Decompiler.csproj.CopyComplete
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\Libraries\ICSharpCode.Decompiler\obj\Debug\ICSharpCode.Decompiler.dll
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\Libraries\ICSharpCode.Decompiler\obj\Debug\ICSharpCode.Decompiler.pdb

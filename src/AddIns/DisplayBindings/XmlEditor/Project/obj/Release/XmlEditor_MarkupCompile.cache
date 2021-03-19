@@ -1,0 +1,20 @@
+﻿XmlEditor
+
+
+library
+C#
+.cs
+B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\DisplayBindings\XmlEditor\Project\obj\Release\
+ICSharpCode.XmlEditor
+none
+false
+TRACE
+
+3-290931545
+
+981846402918
+231910856534
+Src\SelectXmlSchemaWindow.xaml;Src\XmlEditorOptionsPanel.xaml;Src\XmlSchemasPanel.xaml;
+
+False
+
