@@ -4,7 +4,7 @@
 library
 C#
 .cs
-B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\Main\ICSharpCode.SharpDevelop.Widgets\Project\obj\Debug\
+B:\NetFoundation\SharpDevelop_4.4.0.9723\src\Main\ICSharpCode.SharpDevelop.Widgets\Project\obj\Debug\
 ICSharpCode.SharpDevelop.Widgets
 none
 false
@@ -12,9 +12,9 @@ DEBUG;TRACE
 
 4-1941206061
 
-36553678929
+37-778983140
 10652434125
 ColorPicker.xaml;NumericUpDown.xaml;themes\generic.xaml;ZoomScrollViewer.xaml;
 
-False
+True
 

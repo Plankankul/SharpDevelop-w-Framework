@@ -4,7 +4,7 @@
 library
 C#
 .cs
-B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\BackendBindings\Python\PythonBinding\Project\obj\Debug\
+B:\NetFoundation\SharpDevelop_4.4.0.9723\src\AddIns\BackendBindings\Python\PythonBinding\Project\obj\Debug\
 ICSharpCode.PythonBinding
 none
 false
@@ -12,8 +12,8 @@ DEBUG;TRACE
 
 1-1062290786
 
-96-910821401
-28-1540433332
+97-1432484078
+28-256494224
 Src\PythonOptionsPanel.xaml;
 
 False

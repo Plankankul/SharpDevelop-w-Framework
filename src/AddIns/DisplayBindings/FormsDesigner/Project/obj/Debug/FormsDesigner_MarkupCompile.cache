@@ -4,7 +4,7 @@
 library
 C#
 .cs
-B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\DisplayBindings\FormsDesigner\Project\obj\Debug\
+B:\NetFoundation\SharpDevelop_4.4.0.9723\src\AddIns\DisplayBindings\FormsDesigner\Project\obj\Debug\
 ICSharpCode.FormsDesigner
 none
 false
@@ -12,8 +12,8 @@ DEBUG
 
 3882383751
 1-1101621556
-521640976019
-211054489071
+531119313342
+21-214485140
 Src\Gui\OptionPanels\GeneralOptionsPanel.xaml;Src\Gui\OptionPanels\GridOptionsPanel.xaml;Src\Gui\OptionPanels\LocalizationModelOptionsPanel.xaml;
 
 False

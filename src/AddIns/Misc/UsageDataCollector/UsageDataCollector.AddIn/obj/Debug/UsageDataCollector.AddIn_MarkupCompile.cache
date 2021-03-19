@@ -4,7 +4,7 @@
 library
 C#
 .cs
-B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\Misc\UsageDataCollector\UsageDataCollector.AddIn\obj\Debug\
+B:\NetFoundation\SharpDevelop_4.4.0.9723\src\AddIns\Misc\UsageDataCollector\UsageDataCollector.AddIn\obj\Debug\
 ICSharpCode.UsageDataCollector
 none
 false
@@ -12,9 +12,9 @@ DEBUG;TRACE
 
 386875258
 
-6-128799596
-14-1465461019
+7-650462273
+14-1064012929
 CollectedDataView.xaml;OptionPage.xaml;StartPageMessage.xaml;
 
-False
+True
 

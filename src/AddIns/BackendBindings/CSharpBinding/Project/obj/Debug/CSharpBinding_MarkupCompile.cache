@@ -4,7 +4,7 @@
 library
 C#
 .cs
-B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\BackendBindings\CSharpBinding\Project\obj\Debug\
+B:\NetFoundation\SharpDevelop_4.4.0.9723\src\AddIns\BackendBindings\CSharpBinding\Project\obj\Debug\
 
 none
 false
@@ -12,9 +12,9 @@ false
 
 1-1183623109
 
-19-1471834121
-20580638676
+20-1993496798
+20-688335535
 Src\OptionPanels\BuildOptions.xaml;
 
-False
+True
 

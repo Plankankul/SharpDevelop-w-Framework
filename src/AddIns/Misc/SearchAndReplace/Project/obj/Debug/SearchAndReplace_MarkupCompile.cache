@@ -4,7 +4,7 @@
 library
 C#
 .cs
-B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\Misc\SearchAndReplace\Project\obj\Debug\
+B:\NetFoundation\SharpDevelop_4.4.0.9723\src\AddIns\Misc\SearchAndReplace\Project\obj\Debug\
 SearchAndReplace
 none
 false
@@ -12,8 +12,8 @@ DEBUG;TRACE
 
 1-866735701
 
-16-1432867897
-19802823678
+17-1954530574
+19-466150533
 Gui\ResultsTreeView.xaml;
 
 False

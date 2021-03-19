@@ -4,7 +4,7 @@
 library
 C#
 .cs
-B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\Misc\Reports\ICSharpCode.Reports.Core\obj\Debug\
+B:\NetFoundation\SharpDevelop_4.4.0.9723\src\AddIns\Misc\Reports\ICSharpCode.Reports.Core\obj\Debug\
 ICSharpCode.Reports.Core
 none
 false
@@ -12,8 +12,8 @@ DEBUG;TRACE
 
 12025061126
 
-259-1892740467
-20-1944030540
+2601880564152
+20-1404990670
 Project\WpfReportViewer\WpfReportViewer.xaml;
 
 False

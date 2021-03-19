@@ -4,7 +4,7 @@
 library
 C#
 .cs
-B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\DisplayBindings\Data\ICSharpCode.Data.EDMDesigner.Core\obj\Debug\
+B:\NetFoundation\SharpDevelop_4.4.0.9723\src\AddIns\DisplayBindings\Data\ICSharpCode.Data.EDMDesigner.Core\obj\Debug\
 ICSharpCode.Data.EDMDesigner.Core
 none
 false
@@ -12,8 +12,8 @@ DEBUG;TRACE
 
 3-949535317
 
-102730774110
-19359959728
+103209111433
+19-933254873
 Windows\EDMWizard\ChooseDatabaseConnectionUserControl.xaml;Windows\EDMWizard\ChooseDatabaseObjectsUserControl.xaml;Windows\EDMWizard\EDMWizardErrorUserControl.xaml;
 
 False

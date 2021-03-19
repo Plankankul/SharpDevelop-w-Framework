@@ -4,7 +4,7 @@
 library
 C#
 .cs
-B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\DisplayBindings\Data\ICSharpCode.Data.Core.UI\obj\Debug\
+B:\NetFoundation\SharpDevelop_4.4.0.9723\src\AddIns\DisplayBindings\Data\ICSharpCode.Data.Core.UI\obj\Debug\
 ICSharpCode.Data.Core.UI
 none
 false
@@ -12,9 +12,9 @@ DEBUG;TRACE
 
 9-1838968626
 
-176016154
-17-1447812196
+18-515646523
+17371083295
 MainDictionary.xaml;Images\ImageDictionary.xaml;UserControls\DatabaseTreeView.xaml;UserControls\DatabasesTreeView.xaml;UserControls\DatabaseTreeViewResources.xaml;UserControls\ErrorRetryButton.xaml;UserControls\LoadingCircle.xaml;Windows\ConnectionWizardWindow.xaml;Windows\WizardWindowInnards.xaml;
 
-False
+True
 

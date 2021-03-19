@@ -4,7 +4,7 @@
 library
 C#
 .cs
-B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\Misc\StartPage\Project\obj\Debug\
+B:\NetFoundation\SharpDevelop_4.4.0.9723\src\AddIns\Misc\StartPage\Project\obj\Debug\
 ICSharpCode.StartPage
 none
 false
@@ -12,8 +12,8 @@ DEBUG
 
 2-772402514
 
-618975064
-121148668795
+7-502687613
+12247884192
 Src\RecentProjectsControl.xaml;Src\StartPageControl.xaml;
 
 False

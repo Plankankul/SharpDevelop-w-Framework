@@ -4,7 +4,7 @@
 library
 C#
 .cs
-B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\Analysis\CodeQuality\obj\x86\Debug\
+B:\NetFoundation\SharpDevelop_4.4.0.9723\src\AddIns\Analysis\CodeQuality\obj\x86\Debug\
 ICSharpCode.CodeQuality
 none
 false
@@ -12,9 +12,9 @@ DEBUG;TRACE
 
 31907089143
 
-321601082610
-23-633457013
+331079419933
+23-135773540
 Gui\NodeDescription.xaml;Gui\DependencyMatrixView.xaml;Gui\MainView.xaml;
 
-False
+True
 

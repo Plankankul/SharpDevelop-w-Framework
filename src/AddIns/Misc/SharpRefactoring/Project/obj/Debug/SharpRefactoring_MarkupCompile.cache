@@ -4,7 +4,7 @@
 library
 C#
 .cs
-B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\Misc\SharpRefactoring\Project\obj\Debug\
+B:\NetFoundation\SharpDevelop_4.4.0.9723\src\AddIns\Misc\SharpRefactoring\Project\obj\Debug\
 SharpRefactoring
 none
 false
@@ -12,9 +12,9 @@ DEBUG;TRACE
 
 5647129528
 
-53-991114747
-18-93264194
+54-1512777424
+18-1362238405
 Src\Gui\CreatePropertiesDialog.xaml;Src\Gui\InsertCtorDialog.xaml;Src\Gui\IntroduceMethodDialog.xaml;Src\Gui\OverrideEqualsGetHashCodeMethodsDialog.xaml;Src\Gui\OverrideToStringMethodDialog.xaml;
 
-False
+True
 

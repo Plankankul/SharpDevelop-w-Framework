@@ -4,7 +4,7 @@
 library
 C#
 .cs
-B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\DisplayBindings\Data\ICSharpCode.Data.SQLServer\obj\Debug\
+B:\NetFoundation\SharpDevelop_4.4.0.9723\src\AddIns\DisplayBindings\Data\ICSharpCode.Data.SQLServer\obj\Debug\
 ICSharpCode.Data.SQLServer
 none
 false
@@ -12,8 +12,8 @@ DEBUG;TRACE
 
 1946649578
 
-42091212569
-15902588327
+51569549892
+15-858759090
 ControlPanel\SQLServerControlPanel.xaml;
 
 False

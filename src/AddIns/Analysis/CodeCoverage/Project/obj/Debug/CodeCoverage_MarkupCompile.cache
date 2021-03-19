@@ -4,7 +4,7 @@
 library
 C#
 .cs
-B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\Analysis\CodeCoverage\Project\obj\Debug\
+B:\NetFoundation\SharpDevelop_4.4.0.9723\src\AddIns\Analysis\CodeCoverage\Project\obj\Debug\
 ICSharpCode.CodeCoverage
 none
 false
@@ -12,8 +12,8 @@ DEBUG;TRACE
 
 2-249776419
 
-472017255227
-21-2007955370
+481495592550
+21-191788007
 Src\CodeCoverageOptionsPanel.xaml;Src\CodeCoverageProjectOptionsPanel.xaml;
 
 False

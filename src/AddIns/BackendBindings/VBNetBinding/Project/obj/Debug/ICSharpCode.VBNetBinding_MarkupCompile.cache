@@ -4,7 +4,7 @@
 library
 C#
 .cs
-B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\BackendBindings\VBNetBinding\Project\obj\Debug\
+B:\NetFoundation\SharpDevelop_4.4.0.9723\src\AddIns\BackendBindings\VBNetBinding\Project\obj\Debug\
 ICSharpCode.VBNetBinding
 none
 false
@@ -12,9 +12,9 @@ false
 
 31052329609
 
-20863087999
-17953401298
+21341425322
+171386804870
 Src\OptionPanels\BuildOptions.xaml;Src\OptionPanels\ProjectImports.xaml;Src\OptionPanels\TextEditorOptions.xaml;
 
-False
+True
 

@@ -4,7 +4,7 @@
 library
 C#
 .cs
-B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\Analysis\SourceAnalysis\obj\Debug\
+B:\NetFoundation\SharpDevelop_4.4.0.9723\src\AddIns\Analysis\SourceAnalysis\obj\Debug\
 ICSharpCode.SourceAnalysis
 none
 false
@@ -12,8 +12,8 @@ DEBUG;TRACE
 
 2409092693
 
-6353080158
-161639345184
+7-168582519
+16636914996
 Src\AnalysisIdeOptionsPanel.xaml;Src\AnalysisOptionsPanel.xaml;
 
 False

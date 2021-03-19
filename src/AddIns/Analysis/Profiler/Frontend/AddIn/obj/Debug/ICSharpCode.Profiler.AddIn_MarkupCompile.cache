@@ -4,7 +4,7 @@
 library
 C#
 .cs
-B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\Analysis\Profiler\Frontend\AddIn\obj\Debug\
+B:\NetFoundation\SharpDevelop_4.4.0.9723\src\AddIns\Analysis\Profiler\Frontend\AddIn\obj\Debug\
 ICSharpCode.Profiler.AddIn
 none
 false
@@ -12,8 +12,8 @@ DEBUG;TRACE
 
 5493001204
 
-251279891270
-171038607924
+26758228593
+17-433764540
 Src\Dialogs\ProfileExecutableForm.xaml;Src\Dialogs\ProfilerControlWindow.xaml;Src\OptionPanels\General.xaml;Src\Views\ComparisonView.xaml;Src\Views\ProfilerView.xaml;
 
 False

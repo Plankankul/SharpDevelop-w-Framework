@@ -4,7 +4,7 @@
 library
 C#
 .cs
-B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\DisplayBindings\WpfDesign\WpfDesign.AddIn\obj\Debug\
+B:\NetFoundation\SharpDevelop_4.4.0.9723\src\AddIns\DisplayBindings\WpfDesign\WpfDesign.AddIn\obj\Debug\
 ICSharpCode.WpfDesign.AddIn
 none
 false
@@ -12,8 +12,8 @@ DEBUG;TRACE
 
 4-862631117
 
-261225114794
-21-1661206725
+27703452117
+21-1546080818
 Src\WpfDocumentError.xaml;Src\ImageSourceEditor\ChooseImageDialog.xaml;Src\ImageSourceEditor\ImageSourceEditor.xaml;Src\ObjectEditor.xaml;
 
 False

@@ -4,7 +4,7 @@
 library
 C#
 .cs
-B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\DisplayBindings\XmlEditor\Project\obj\Debug\
+B:\NetFoundation\SharpDevelop_4.4.0.9723\src\AddIns\DisplayBindings\XmlEditor\Project\obj\Debug\
 ICSharpCode.XmlEditor
 none
 false
@@ -12,8 +12,8 @@ DEBUG;TRACE
 
 3-290931545
 
-981846402918
-231910856534
+991324740241
+23-29319785
 Src\SelectXmlSchemaWindow.xaml;Src\XmlEditorOptionsPanel.xaml;Src\XmlSchemasPanel.xaml;
 
 False

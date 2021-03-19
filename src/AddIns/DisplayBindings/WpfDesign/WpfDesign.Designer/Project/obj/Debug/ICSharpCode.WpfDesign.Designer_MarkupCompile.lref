@@ -1,17 +1,17 @@
-﻿B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\DisplayBindings\WpfDesign\WpfDesign.Designer\Project\obj\Debug\GeneratedInternalTypeHelper.g.cs
+﻿B:\NetFoundation\SharpDevelop_4.4.0.9723\src\AddIns\DisplayBindings\WpfDesign\WpfDesign.Designer\Project\obj\Debug\GeneratedInternalTypeHelper.g.cs
 
-FB:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\DisplayBindings\WpfDesign\WpfDesign.Designer\Project\PropertyGrid\Editors\FlatCollectionEditor.xaml;;
-FB:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\DisplayBindings\WpfDesign\WpfDesign.Designer\Project\ThumbnailView\ThumbnailView.xaml;;
-FB:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\DisplayBindings\WpfDesign\WpfDesign.Designer\Project\Controls\ControlStyles.xaml;;
-FB:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\DisplayBindings\WpfDesign\WpfDesign.Designer\Project\DesignSurface.xaml;;
-FB:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\DisplayBindings\WpfDesign\WpfDesign.Designer\Project\OutlineView\Outline.xaml;;
-FB:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\DisplayBindings\WpfDesign\WpfDesign.Designer\Project\OutlineView\OutlineView.xaml;;
-FB:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\DisplayBindings\WpfDesign\WpfDesign.Designer\Project\PropertyGrid\Editors\BrushEditor\BrushEditorPopup.xaml;;
-FB:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\DisplayBindings\WpfDesign\WpfDesign.Designer\Project\PropertyGrid\Editors\BrushEditor\BrushEditorView.xaml;;
-FB:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\DisplayBindings\WpfDesign\WpfDesign.Designer\Project\PropertyGrid\Editors\BrushEditor\GradientBrushEditor.xaml;;
-FB:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\DisplayBindings\WpfDesign\WpfDesign.Designer\Project\PropertyGrid\Editors\BrushEditor\GradientSlider.xaml;;
-FB:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\DisplayBindings\WpfDesign\WpfDesign.Designer\Project\PropertyGrid\Editors\CollectionEditor.xaml;;
-FB:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\DisplayBindings\WpfDesign\WpfDesign.Designer\Project\PropertyGrid\Editors\NumberEditor.xaml;;
-FB:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\DisplayBindings\WpfDesign\WpfDesign.Designer\Project\PropertyGrid\PropertyGridView.xaml;;
-FB:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\DisplayBindings\WpfDesign\WpfDesign.Designer\Project\Services\ChooseClassDialog.xaml;;
+FB:\NetFoundation\SharpDevelop_4.4.0.9723\src\AddIns\DisplayBindings\WpfDesign\WpfDesign.Designer\Project\PropertyGrid\Editors\FlatCollectionEditor.xaml;;
+FB:\NetFoundation\SharpDevelop_4.4.0.9723\src\AddIns\DisplayBindings\WpfDesign\WpfDesign.Designer\Project\ThumbnailView\ThumbnailView.xaml;;
+FB:\NetFoundation\SharpDevelop_4.4.0.9723\src\AddIns\DisplayBindings\WpfDesign\WpfDesign.Designer\Project\Controls\ControlStyles.xaml;;
+FB:\NetFoundation\SharpDevelop_4.4.0.9723\src\AddIns\DisplayBindings\WpfDesign\WpfDesign.Designer\Project\DesignSurface.xaml;;
+FB:\NetFoundation\SharpDevelop_4.4.0.9723\src\AddIns\DisplayBindings\WpfDesign\WpfDesign.Designer\Project\OutlineView\Outline.xaml;;
+FB:\NetFoundation\SharpDevelop_4.4.0.9723\src\AddIns\DisplayBindings\WpfDesign\WpfDesign.Designer\Project\OutlineView\OutlineView.xaml;;
+FB:\NetFoundation\SharpDevelop_4.4.0.9723\src\AddIns\DisplayBindings\WpfDesign\WpfDesign.Designer\Project\PropertyGrid\Editors\BrushEditor\BrushEditorPopup.xaml;;
+FB:\NetFoundation\SharpDevelop_4.4.0.9723\src\AddIns\DisplayBindings\WpfDesign\WpfDesign.Designer\Project\PropertyGrid\Editors\BrushEditor\BrushEditorView.xaml;;
+FB:\NetFoundation\SharpDevelop_4.4.0.9723\src\AddIns\DisplayBindings\WpfDesign\WpfDesign.Designer\Project\PropertyGrid\Editors\BrushEditor\GradientBrushEditor.xaml;;
+FB:\NetFoundation\SharpDevelop_4.4.0.9723\src\AddIns\DisplayBindings\WpfDesign\WpfDesign.Designer\Project\PropertyGrid\Editors\BrushEditor\GradientSlider.xaml;;
+FB:\NetFoundation\SharpDevelop_4.4.0.9723\src\AddIns\DisplayBindings\WpfDesign\WpfDesign.Designer\Project\PropertyGrid\Editors\CollectionEditor.xaml;;
+FB:\NetFoundation\SharpDevelop_4.4.0.9723\src\AddIns\DisplayBindings\WpfDesign\WpfDesign.Designer\Project\PropertyGrid\Editors\NumberEditor.xaml;;
+FB:\NetFoundation\SharpDevelop_4.4.0.9723\src\AddIns\DisplayBindings\WpfDesign\WpfDesign.Designer\Project\PropertyGrid\PropertyGridView.xaml;;
+FB:\NetFoundation\SharpDevelop_4.4.0.9723\src\AddIns\DisplayBindings\WpfDesign\WpfDesign.Designer\Project\Services\ChooseClassDialog.xaml;;
 

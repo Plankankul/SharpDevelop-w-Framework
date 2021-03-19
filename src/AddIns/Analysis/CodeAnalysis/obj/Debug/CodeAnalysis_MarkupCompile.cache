@@ -4,7 +4,7 @@
 library
 C#
 .cs
-B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\Analysis\CodeAnalysis\obj\Debug\
+B:\NetFoundation\SharpDevelop_4.4.0.9723\src\AddIns\Analysis\CodeAnalysis\obj\Debug\
 ICSharpCode.CodeAnalysis
 none
 false
@@ -12,9 +12,9 @@ DEBUG;TRACE
 
 276547324
 
-10-1157967686
-18492860740
+11-1679630363
+18-2062830961
 Src\AnalysisIdeOptionsPanel.xaml;Src\AnalysisProjectOptionsPanel.xaml;
 
-False
+True
 

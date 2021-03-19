@@ -4,7 +4,7 @@
 library
 C#
 .cs
-B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\Analysis\Profiler\Frontend\Controls\obj\Debug\
+B:\NetFoundation\SharpDevelop_4.4.0.9723\src\AddIns\Analysis\Profiler\Frontend\Controls\obj\Debug\
 ICSharpCode.Profiler.Controls
 none
 false
@@ -12,9 +12,9 @@ DEBUG;TRACE
 
 41281563110
 
-221059803876
-12-608864422
+23-272858193
+121969638606
 CompareView.xaml;ExtendedTimeLineControl.xaml;QueryView.xaml;Themes\Generic.xaml;
 
-False
+True
 

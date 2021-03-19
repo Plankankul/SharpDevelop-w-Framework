@@ -4,7 +4,7 @@
 library
 C#
 .cs
-B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\AddIns\Misc\HelpViewer\obj\x86\Debug\
+B:\NetFoundation\SharpDevelop_4.4.0.9723\src\AddIns\Misc\HelpViewer\obj\x86\Debug\
 MSHelpSystem
 none
 false
@@ -12,8 +12,8 @@ DEBUG;TRACE
 
 3122795004
 
-21470070112
-16-1397084733
+22-51592565
+161833291672
 Source\Controls\SearchPadControl.xaml;Source\Controls\TocPadControl.xaml;Source\Help3OptionsPanel.xaml;
 
 False

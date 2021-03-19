@@ -4,7 +4,7 @@
 library
 C#
 .cs
-B:\_NTROOTWRK\Verve Kits\verve patch\SharpDevelop_4.4.0.9722_Source\src\Main\ICSharpCode.Core.Presentation\obj\Debug\
+B:\NetFoundation\SharpDevelop_4.4.0.9723\src\Main\ICSharpCode.Core.Presentation\obj\Debug\
 ICSharpCode.Core.Presentation
 none
 false
@@ -12,9 +12,9 @@ DEBUG;TRACE
 
 2627842487
 
-322073008982
-13-395768090
+33740346913
+13-1807423138
 themes\Aero.NormalColor.xaml;themes\generic.xaml;
 
-False
+True
 
